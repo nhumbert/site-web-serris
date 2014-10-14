@@ -1,0 +1,578 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Site de la ville de Serris</title>
+<style type="text/css">
+
+    <!--
+
+    body {
+	background: #FFBF00;
+	margin: 0; /* il est conseillé de mettre à zéro la marge et le remplissage de l'élément body, pour tenir compte des différentes valeurs par défaut des navigateurs */
+	padding: 0;
+	text-align: justify;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin-left: 0%;
+	margin-right: 0%;
+	background-repeat: no-repeat;
+	font-style: normal;
+	background-color: #FFFFFF;
+    }
+
+    .oneColFixCtr #container {
+
+   
+		px;  /* paramétrage de la largeur à 20 pixels de moins que le plein écran (800 pixels) pour tenir compte de l'habillage du navigateur et éviter l'apparition d'un ascenseur horizontal */
+
+    	background: #FFFFFF;
+
+    	margin: 0 auto; /* les marges automatiques (et dotées d'une largeur positive) centrent la page */
+
+    	border: 1px solid #000000;
+
+    	text-align: left; /* ce paramétrage annule le paramètre text-align: center de l'élément body. */
+
+    }
+
+    .oneColFixCtr #mainContent {
+
+    	padding: 0 0
+		px; /* ne pas oublier que le remplissage est l'espace à l'intérieur du cadre de l'élément div, alors que la marge est l'espace à l'extérieur de celui-ci */
+
+    }
+.Styletextenormal vert bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+    -->
+
+    </style>
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Style5 {
+	font-size: 95%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+.Style6 {
+	font-size: 60%;
+	text-align: center;
+	font-weight: normal;
+	color: #000000;
+}
+a:link {
+	border: 0;
+	text-transform: none;
+	color: #000000;
+}
+a:visited {
+	text-transform: none;
+	border-top-color: #ECECEC;
+	border-right-color: #ECECEC;
+	border-bottom-color: #ECECEC;
+	border-left-color: #ECECEC;
+	color: #8BBB13;
+}
+#apDiv1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: -63px;
+	top: 135px;
+}
+#apDiv2 {
+	position:absolute;
+	width:116px;
+	height:69px;
+	z-index:1;
+	left: 14px;
+	top: 133px;
+}
+#apDiv3 {
+	position:absolute;
+	left:10px;
+	top:153px;
+	width:102px;
+	height:499px;
+	z-index:1;
+	background-image: url(../lampadaire-ok.gif);
+	visibility: visible;
+}
+#apDiv {	position:absolute;
+	left:25px;
+	top:155px;
+	width:102px;
+	height:499px;
+	z-index:1;
+	background-image: url(../lampadaire-ok.gif);
+}
+#apDiv4 {
+	position:absolute;
+	width:122px;
+	height:499px;
+	z-index:1;
+	left: 323px;
+	top: 201px;
+}
+#lam {
+	position:absolute;
+	left:12px;
+	top:136px;
+	width:121px;
+	height:509px;
+	z-index:1;
+}
+#apDiv5 {
+	position:absolute;
+	left:20px;
+	top:164px;
+	width:114px;
+	height:409px;
+	z-index:2;
+	visibility: visible;
+}
+#nvxarrivants {
+	position:absolute;
+	left:28px;
+	top:280px;
+	width:94px;
+	height:20px;
+	z-index:1;
+	visibility: visible;
+}
+#infotravaux {
+	position:absolute;
+	left:28px;
+	top:310px;
+	width:71px;
+	height:18px;
+	z-index:2;
+	visibility: visible;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+p.MsoNormal {
+	margin:0cm;
+	margin-bottom:0.0001pt;
+	font-size:80%;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.StylesSOUSTITRE {
+	font-size: 100%;
+	font-weight: bold;
+	background-image: url(../images/accueil/fond-sous-titre.gif);
+	background-repeat: no-repeat;
+	margin-left: 5%;
+}
+.Style57 {
+	font-size: 80%;
+	color: #000000;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+.Styletextenormal  {
+	text-align: justify;
+	font-size: 80%;
+	color: #000000;
+	margin-left: 10%;
+	margin-right: 2%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	vertical-align: top;
+}
+.stylenouveau {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 70%;
+	font-style: normal;
+	font-variant: normal;
+	background-color: #96D105;
+	background-repeat: no-repeat;
+}
+-->
+</style>
+
+<link href="../SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Style73 {font-size: 60%}
+.Style74 {font-size: 70%}
+.Style75 {
+	color: #8BBB1C;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="974" height="767" border="0" align="center" valign="top" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="126" rowspan="2" align="center" valign="middle"><p class="Style6"><a name="hautdepage" id="hautdepage"></a><img src="../images/accueil/logo serris.gif" alt="logo serris" width="122" height="63" /></p>
+      <span class="Style73">2 place Antoine Mauny<br />
+      Tél. 01 60 43 52 00<br />
+    contact@mairie-serris.net</span></td>
+    <td width="848" height="100" align="left" valign="top"><!-- TemplateBeginEditable name="tetiere" --><a href="../index.html"><img src="../images/Animation/AnimHomepage.gif" alt="tetiere" width="848" height="100" border="0" /></a><!-- TemplateEndEditable --></td>
+  </tr>
+  
+  
+  <tr>
+    <td height="31" valign="top"><ul id="MenuBar2" class="MenuBarHorizontal">
+      <li><a class="MenuBarItemSubmenu" href="../MenuHautNoir/Cadre de vie/Environnement/airesdejeux.html">Actualités</a>
+          <ul>
+            <li><a href="../MenuHautNoir/Actualites/information.html" title="Informations">Informations</a></li>
+            <li><a href="../MenuHautNoir/Actualites/agenda.html" title="Agenda">Agenda</a></li>
+            <li><a href="../menuGauche/InfoTravaux.html">Info travaux</a></li>
+            <li><a href="../MenuHautNoir/Actualites/ConseilsMunicipaux.html">Conseils municipaux</a></li>
+          </ul>
+      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Commune</a>
+          <ul>
+            <li><a href="../MenuHautNoir/Commune/Presentation.html">Présentation</a></li>
+            <li><a href="../MenuHautNoir/Commune/transport.html">Transports</a></li>
+            <li><a href="#" class="MenuBarItemSubmenu">Tourisme</a>
+              <ul>
+                <li><a href="../MenuHautNoir/Commune/tourisme/veniraserris.html">Venir &agrave; Serris</a></li>
+                <li><a href="../MenuHautNoir/Commune/tourisme/seloger.html">Se loger</a></li>
+                <li><a href="../MenuHautNoir/Commune/tourisme/Histoire/SariaSerris.html">Histoires de Serris</a></li>
+                </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Commune/JournalCommuneSerrissien.html">Le Serrissien</a></li>
+              <li><a href="#" class="MenuBarItemSubmenu">Services municipaux</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/accueilhdv.html">Accueil</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/EtatCivil.html">&Eacute;tat-civil</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/Maelis.html">Ma&euml;lis</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/actioneducative.html">Action Éducative</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/petiteenfance.html">Petite Enfance</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/servicestechniques.html">Services Techniques</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/animation.html">Animation et jumelage</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/Social.html">Social</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/ServiceCulturel.html">Service Culturel</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/Policemunicipale.html">Police Municipale</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/urbanisme.html">Urbanisme</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/deveco.html">D&eacute;veloppement &Eacute;conomique</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">&Eacute;quipements</a>
+              <ul>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementsadmini.html">&Eacute;quipements administratifs</a></li>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementssport.html">&Eacute;quipements sportifs</a></li>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementsculturels.html">&Eacute;quipements culturels</a></li>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementsfestifs.html">&Eacute;quipements associatifs et festifs</a></li>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementssociaux.html">&Eacute;quipements sociaux</a></li>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementsscolaires.html">&Eacute;quipements scolaires</a></li>
+                <li><a href="../MenuHautNoir/Commune/equipements/equipementjeunesse.html">&Eacute;quipements jeunesse</a></li>
+                <li><a href="../MenuHautNoir/Cadre de vie/Environnement/ParcsetJardins.html">Parcs et jardins</a></li>
+                <li><a href="../MenuHautNoir/Cadre de vie/Environnement/airesdejeux.html">Aires de jeux</a></li>
+              </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Commune/Elus.html">Vos élus</a></li>
+            <li><a href="../MenuHautNoir/Commune/budget.html">Budget</a></li>
+            <li><a href="#" class="MenuBarItemSubmenu">Environnement institutionnel</a>
+              <ul>
+                <li><a href="../MenuHautNoir/Commune/CommuneEnvironnementInstitutionnel/SAN.html">SAN du Val d'Europe</a></li>
+                <li><a href="../MenuHautNoir/Commune/CommuneEnvironnementInstitutionnel/MarneLaVallee.html">Marne la Vall&eacute;e</a></li>
+                <li><a href="http://www.seine-et-marne.fr/" target="blank">Conseil G&eacute;n&eacute;ral</a></li>
+                <li><a href="http://www.iledefrance.fr/" target="blank">R&eacute;gion &Icirc;le de France</a></li>
+                <li><a href="http://www.seine-et-marne.pref.gouv.fr/sections/header/horaires_-_adresses/sous-prefecture_de_t" target="blank">Sous-pr&eacute;fecture de Torcy</a></li>
+              </ul>
+            </li>
+          </ul>
+      </li>
+      <li><a class="MenuBarItemSubmenu" href="#">Démarches</a>
+          <ul>
+            <li><a class="MenuBarItemSubmenu" href="#">Social</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Demarches/AidesSociales/CCAS.html">C.C.A.S</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/AidesSociales/DemandeAideS.html">Demandes d'aides sociales</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/AidesSociales/DemandeLogmnt.html">Demande de logement</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/equipementssociaux/epiceriesolidaire.html">&Eacute;picerie Solidaire</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/equipementssociaux/csi.html">Centre Social Intercommunal</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">État civil</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/cni.html">Carte d'identit&eacute;</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/passeport.html">Passeport</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/livretdefamille.html">Livret de famille</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/Naissances.html">Naissance</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/Mariage.html">Mariage</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/ReconnaissanceD1enfant.html" class="Style5">Reconnaissance d'enfant naturel</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/BaptemeCivil.html">Bapt&egrave;me civil</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/Deces.html">D&eacute;c&egrave;s</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/EtatCivil/Adresse.html">Adresse</a></li>
+              </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">Certificats</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/autorisationsortie.html">Autorisation de sortie de territoire</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/heredite.html">H&eacute;r&eacute;dit&eacute;</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#scolarite">Scolarit&eacute;</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#scolarite">Vie Commune</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#nationalite">Nationalit&eacute;</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#nationalite">Non-imposition</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#residence">R&eacute;sidence</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#residence">Non gage</a></li>
+              </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Demarches/Formulaires.html" class="MenuBarItemSubmenu">Formulaires</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/permisdeconduire.html">Permis de conduire</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/cartegrise.html">Carte grise</a></li>
+                  <li><a href="#">Carte d'&eacute;lecteur</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#inscription">Recensement militaire</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#inscription">Inscription scolaire</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#signature">l&eacute;galisation de signature</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#signature">Aide juridictionnelle</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#huissier">Plis de huissier</a></li>
+              </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">&Eacute;trangers</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Demarches/etrangers/titreSejours.html">Titre de s&eacute;jour</a></li>
+                  <li><a href="../MenuHautNoir/Demarches/etrangers/AttestationAccueil.html">Attestation d'accueil</a></li>
+                  <li><a href="http://vosdroits.service-public.fr/particuliers/F11167.xhtml" target="blank">Regroupement familial</a></li>
+                </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Commune/equipements/equipementssociaux.html" class="MenuBarItemSubmenu">&Eacute;quipements</a>
+              <ul>
+                <li><a href="../MenuHautNoir/Demarches/equipementssociaux/epiceriesolidaire.html">&Eacute;picerie solidaire</a></li>
+                <li><a href="../MenuHautNoir/Demarches/equipementssociaux/csi.html">Centre Social Intercommunal</a></li>
+              </ul>
+            </li>
+          </ul>
+      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Jeunesse</a>
+          <ul>
+            <li><a href="#" class="MenuBarItemSubmenu">Services</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/petiteenfance.html">Petite Enfance</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/actioneducative.html">Action &Eacute;ducative</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">Petite Enfance</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/creches.html">Cr&egrave;ches</a></li>
+                  <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/accueilspe.html">Accueil r&eacute;gulier et ponctuel</a></li>
+                  <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/RAM.html">Relais d'Assistantes Maternelles Parents Enfants</a></li>
+                  <li><a href="../DossierPDFTelechargement/assistmater.xls" target="blank">Liste des assistantes maternelles</a></li>
+                  <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/liensPE.html">Liens</a></li>
+              </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">Enfance</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Jeunesse/Enfance/CentresLoisirs.html">Centres de loisirs</a></li>
+                  <li><a href="../MenuHautNoir/Jeunesse/Enfance/AccueilsPeriscolaire.html">Accueil p&eacute;riscolaire</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">Jeunesse</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Jeunesse/Jeunesse/ClubPreAdo.html">Club Pr&eacute;-ados</a></li>
+                  <li><a href="../MenuHautNoir/Jeunesse/Jeunesse/MaisonJeunes.html">Espace Jeunes les Semailles</a></li>
+                </ul>
+            </li>
+          </ul>
+      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Enseignement</a>
+          <ul>
+            <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/actioneducative.html">Service Action &Eacute;ducative</a></li>
+            <li><a href="#" class="MenuBarItemSubmenu">&Eacute;coles</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/JeanDeLaFontaine.html">Jean de La Fontaine</a></li>
+                  <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/RobertDoisneau.html">Robert Doisneau</a></li>
+                  <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/JulesVerne.html">Jules Verne</a></li>
+                  <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/HenriMatisse.html">Henri Matisse</a></li>
+                </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Enseignement/College.html">Coll&egrave;ge</a> </li>
+            <li><a href="../MenuHautNoir/Enseignement/Lycee.html">Lyc&eacute;e</a></li>
+            <li><a href="../MenuHautNoir/Enseignement/Universite.html">Universit&eacute;</a></li>
+            <li><a href="../MenuHautNoir/Enseignement/Restauration.html">Restauration scolaire</a></li>
+            <li><a href="../menuGauche/Liens.html#enseignement">Liens enseignement</a></li>
+          </ul>
+      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Animation</a>
+          <ul>
+            <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/animation.html">Service Animation et Jumelage</a></li>
+            <li><a href="../MenuHautNoir/Animation/locationsalle.html">Locations de salles</a></li>
+            <li><a href="../MenuHautNoir/Animation/associations.html">Associations</a></li>
+            <li><a href="../MenuHautNoir/Commune/equipements/equipementsfestifs.html">&Eacute;quipements</a></li>
+          </ul>
+      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Sport&amp;Culture</a>
+          <ul>
+            <li><a href="#" class="MenuBarItemSubmenu">Services</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/actioneducative.html">Service Action &Eacute;ducative</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/ServiceCulturel.html">Service Culturel</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">Plan&egrave;te Sport</a>
+              <ul>
+                <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/EcoleMultisports.html">&Eacute;cole multisports</a></li>
+                <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/planetesportadulte.html">Plan&egrave;te Sport Adulte</a></li>
+                <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/stagesetsejours.html">Stages et s&eacute;jours</a></li>
+              </ul>
+            </li>
+          <li><a href="#" class="MenuBarItemSubmenu">&Eacute;quipements</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Commune/equipements/equipementssport.html">&Eacute;quipements sportifs</a></li>
+                  <li><a href="../MenuHautNoir/SportEtCulture/fermedescommunes/fdc.html">Centre culturel la Ferme des Communes</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">La Ferme des Communes</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/SportEtCulture/fermedescommunes/fdc.html">Pr&eacute;sentation</a></li>
+                  <li><a href="../MenuHautNoir/SportEtCulture/fermedescommunes/programmation.html">Programmation</a></li>
+                  <li><a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Billetterie</a></li>
+                  <li><a href="../MenuHautNoir/SportEtCulture/fermedescommunes/accesfdc.html">Acc&egrave;s</a></li>
+                </ul>
+            </li>
+            <li><a href="../MenuHautNoir/SportEtCulture/modelage.html">Cours de modelage sculpture</a></li>
+            <li><a href="#" class="MenuBarItemSubmenu">M&eacute;diath&egrave;ques</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/SportEtCulture/Mediatheque/MediathequeFermeCommunes.html">M&eacute;diath&egrave;que de la Ferme des Communes</a></li>
+                  <li><a href="../MenuHautNoir/SportEtCulture/Mediatheque/MediathequePlacedAriane.html">M&eacute;diath&egrave;que du centre urbain</a></li>
+                  <li><a href="http://mediatheques.valeurope-san.fr">R&eacute;seau des M&eacute;diath&egrave;ques du val d'Europe</a></li>
+              </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Animation/associations.html">Associations</a></li>
+          </ul>
+      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Cadre de vie</a>
+          <ul>
+            <li><a href="#" class="MenuBarItemSubmenu">Services</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/servicestechniques.html">Services Techniques</a></li>
+                  <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/urbanisme.html">Am&eacute;nagement Urbanisme</a></li>
+                </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Cadre de vie/agenda21/DvlpDurable.html">D&eacute;veloppement Durable</a></li>
+            <li><a href="#" class="MenuBarItemSubmenu">Environnement</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Environnement/SerrisVilleFleurie.html">Ville fleurie</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Environnement/ParcsetJardins.html">Parcs et jardins</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Environnement/airesdejeux.html">Aires de jeux</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Environnement/gestiondiff.html">Gestion diff&eacute;renci&eacute;e</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Environnement/dechetterie.html">D&eacute;chetterie</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Environnement/collectedechets.html">Collecte des d&eacute;chets</a></li>
+                </ul>
+            </li>
+            <li><a href="#" class="MenuBarItemSubmenu">Am&eacute;nagement Urbanisme</a>
+                <ul>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/P.L.U.html">Plan Local d'Urbanisme</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/S.D.R.I.F.html">SDRIF</a></li>
+                  <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/LesProjets.html">Les projets</a></li>
+                </ul>
+            </li>
+            <li><a href="../MenuHautNoir/Cadre de vie/ReglementsPub.html">R&eacute;glementation publicitaire</a></li>
+          </ul>
+      </li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td width="126" rowspan="2" valign="top"><table width="122" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="4" align="center" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="504" align="center" valign="top"><div align="center"><img src="../images/accueil/panneaux-gauche.gif" width="99" height="500" border="0" align="top" usemap="#Map" /></div></td>
+        </tr>
+    </table>      
+    <div align="center"><a href="../mentionslegales.html" class="Style74">Mentions légales</a></div></td>
+    <td width="848" valign="top"><!-- TemplateBeginEditable name="EditRegion2" --><img src="../images/accueil/bouton-agenda.gif" width="800" height="38" border="0" /><!-- TemplateEndEditable --></td>
+  </tr>
+  
+  <tr>
+    <td width="848" rowspan="2" align="center" valign="top"><!-- TemplateBeginEditable name="corps du site" -->
+      <table width="800"  border="0" cellspacing="0" cellpadding="0">
+        
+        <tr>
+          <td width="10" height="30">&nbsp;</td>
+          <td width="194" height="30"><img src="../images/accueil/Ligne.png" width="174" height="2" /></td>
+          <td width="194" height="30"><img src="../images/accueil/Ligne.png" width="174" height="2" /></td>
+          <td width="4" height="30">&nbsp;</td>
+          <td width="194" height="30"><img src="../images/accueil/Ligne.png" alt="" width="174" height="2" /></td>
+          <td width="194" height="30"><img src="../images/accueil/Ligne.png" alt="" width="174" height="2" /></td>
+          <td width="10" height="30">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="20"><a name="article4" id="article"></a></td>
+          <td height="20" colspan="2"><p align="left" class="StylesSOUSTITRE">Fréquemment des personns âgées</p></td>
+          <td height="20">&nbsp;</td>
+          <td height="20" colspan="2"><span class="Style57">Samedi 8 septembre de 12h00 à 18h00</span></td>
+          <td height="20">&nbsp;</td>
+        </tr>
+        <tr>
+          <td background="../images/accueil/Ligneverticale5.gif">&nbsp;</td>
+          <td colspan="4" valign="top"><p class="Styletextenormal" style="text-align:justify; margin-left: 5%; vertical-align: top; margin-right: 2%;">Fréquemment, des personnes âgées demeurant dans leur domicile sont victimes des procédés bien huilés du vol par ruse. ette technique d’effraction consiste à se faire passer pour quelqu'un d'çautre ou à utiliser une ruse pour pénétrer dans une habitation. Le ou les malfaiter(s) en profitent alors our ommettre un vol dans l'habitation ou subtiliser à l'habitant  somme d'rgent qi ne </p>
+          <p class="Style75" style="text-align:justify; margin-left: 5%; vertical-align: top; margin-right: 2%; font-size: 80%;">correspond pas à la valeur réelle d'un bien ou d'un service.</p></td>
+          <td align="center" valign="top"><p class="Styletextenormal"><img src="../images/agenda/2010foiregreniers.gif" width="141" height="200" /></p></td>
+          <td background="../images/accueil/Ligneverticale5.gif">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="30">&nbsp;</td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30">&nbsp;</td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="20"><a name="article4" id="article2"></a></td>
+          <td height="20" colspan="2"><p align="left" class="StylesSOUSTITRE">Fréquemment des personnes âgées</p></td>
+          <td height="20">&nbsp;</td>
+          <td height="20" colspan="2"><span class="Style57">Samedi 8 septembre de 12h00 à 18h00</span></td>
+          <td height="20">&nbsp;</td>
+        </tr>
+        <tr>
+          <td background="../images/accueil/Ligneverticale5.gif">&nbsp;</td>
+          <td colspan="4" valign="top"><p class="Styletextenormal" style="text-align:justify; margin-left: 5%; vertical-align: top; margin-right: 2%;">Fréquemment, des persones âgées demeurant dans leur domicile sont victimes des procédés bien huilés du vol par ruse. Cette technique d’effraction consiste à se faire passer pour quelqu'un d'autre ou à utiliser une ruse pour pénétrer dans une habitation. Le ou les malfaiteur(s) en profitent alors pour commettre un vol dans l'habitation ou subtiliser à l'habitant une somme d'argent qui ne correspond pas à la valeur réelle d'un bien ou d'un service.</p>
+          <p class="Styletextenormal" style="text-align:justify; margin-left: 5%; vertical-align: top; margin-right: 2%;">&nbsp;</p></td>
+          <td align="center" valign="top"><p class="Styletextenormal"><img src="../images/agenda/2010foiregreniers.gif" alt="foire" width="141" height="200" /></p></td>
+          <td background="../images/accueil/Ligneverticale5.gif">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="30">&nbsp;</td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30">&nbsp;</td>
+          <td height="30"><img src="../images/accueil/Ligne.png" alt="ligne" width="174" height="2" /></td>
+          <td height="30" align="left" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+          <td height="30">&nbsp;</td>
+        </tr>
+      </table>
+      <!-- TemplateEndEditable --></td>
+  </tr>
+  
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="3,250,93,266" href="../menuGauche/Telechargement.html" alt="téléchargements" />
+<area shape="rect" coords="2,308,78,324" href="../menuGauche/PlanVille.html" alt="plans de ville" />
+<area shape="rect" coords="2,339,39,353" href="../menuGauche/Liens.html" alt="liens" />
+<area shape="rect" coords="3,191,68,206" href="../menuGauche/ViePratique/viepratique.html" alt="Vie pratique" />
+<area shape="rect" coords="2,367,53,383" href="../menuGauche/Contacts.html" alt="contacts" />
+<area shape="rect" coords="3,280,81,293" href="../menuGauche/SanteUrgence.html" alt="Santé - urgence" />
+<area shape="rect" coords="4,219,85,236" href="../menuGauche/VieEconomique/vieeco.html" alt="vie économique" />
+<area shape="rect" coords="3,161,70,176" href="../menuGauche/InfoTravaux.html" alt="Informations travaux" />
+<area shape="rect" coords="2,133,96,148" href="../menuGauche/NouveauxArrivant.html" alt="Nouveaux arrivants" />
+</map>
+<script type="text/javascript">
+<!--
+var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+  </script></body>
+</html>

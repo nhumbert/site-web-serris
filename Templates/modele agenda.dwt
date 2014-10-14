@@ -1,0 +1,2031 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/modele site.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+      
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Site de la ville de Serris. Tél : 01 60 43 52 00</title>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+<!--
+-->
+</style>
+<link href="../css/cssserris.css" rel="stylesheet" type="text/css" />
+<script src="../SpryAssets/SpryEffects.js" type="text/javascript"></script>
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.Style59 {
+	font-size: 10px
+}
+.Style5 {
+	font-size: 95%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+.Style58 {
+	color: #000000
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_effectGrowShrink(targetElement, duration, from, to, toggle, referHeight, growFromCenter)
+{
+	Spry.Effect.DoGrow(targetElement, {duration: duration, from: from, to: to, toggle: toggle, referHeight: referHeight, growCenter: growFromCenter});
+}
+//-->
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.StyleTexteChoixhaut {	font-family: Calibri, Arial;
+	font-size: 16px;
+	color: #000;
+	text-decoration: underline;
+}
+</style>
+<!-- InstanceEndEditable -->
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<link href="../SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body,td,th {
+	font-family: Calibri, Arial;
+}
+</style>
+</head>
+<body bgcolor="#FFFFFF">
+<div align="center">
+  <table width="974" border="0" cellpadding="0" cellspacing="0" id="principal">
+    <tr align="center">
+      <td><table width="100%" border="0" cellpadding="0" cellspacing="0" id="tetiere">
+          <tr>
+            <td><a name="hautdepage" id="hautdepage"></a><!-- InstanceBeginEditable name="tetiere" --><a href="../index.html"><img src="../images/Animation/AnimAnimation.gif" width="974" height="99" border="0" /></a><!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" id="menu">
+          <tr>
+            <td width="100%" height="40" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="menuhaut">
+                <tr>
+                  <td align="left" valign="top" bgcolor="#000000"><ul id="MenuBar" class="MenuBarHorizontal">
+                      <li><a href="../menuGauche/Contacts.html" class="MenuBarHorizontal">Contacts</a></li>
+                      <li> <a class="MenuBarItemSubmenu">Actualités</a>
+                        <ul>
+                          <li><a href="../MenuHautNoir/Actualites/agenda.html" title="Agenda" class="MenuBarItemSubmenu">Agenda</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Actualites/agenda.html">Prochaines manifestations</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/janvier.html">Janvier</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/fevrier.html">F&eacute;vrier</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/mars.html">Mars</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/avril.html">Avril</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/mai.html">Mai</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/juin.html">Juin</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/juillet.html">Juillet</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/aout.html">Ao&ucirc;t</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/septembre.html">Septembre</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/octobre.html">Octobre</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/novembre.html">Novembre</a></li>
+                              <li><a href="../MenuHautNoir/Actualites/decembre.html">D&eacute;cembre</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Actualites/information.html" title="Informations">Informations</a></li>
+                          <li><a href="../menuGauche/InfoTravaux.html">Info travaux</a></li>
+                          <li><a href="../MenuHautNoir/Actualites/JournalCommuneSerrissien.html">Le Serrissien</a></li>
+                          <li><a href="../MenuHautNoir/Actualites/ConseilsMunicipaux.html">Conseils municipaux</a></li>
+                        </ul>
+                      </li>
+                      <li> <a href="#" class="MenuBarItemSubmenu">Commune</a>
+                        <ul>
+                          <li><a href="../MenuHautNoir/Commune/Presentation.html">Présentation</a></li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Services municipaux</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/accueilhdv.html">Accueil</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/EtatCivil.html">&Eacute;tat-civil</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/accueilfamille.html">Accueil Famille</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/petiteenfance.html">Petite Enfance</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/enfanceenseignement.html">Enfance Enseignement</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/jeunesse.html">Jeunesse</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/animation.html">Animation</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/Social.html">Social</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/ServiceCulturel.html">Culture</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/sport.html">Sport</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/Policemunicipale.html">Police Municipale</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/devdurable.html">D&eacute;v. Durable et Transport</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/servicestechniques.html">Services Techniques</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/urbanisme.html">Urbanisme</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/deveco.html">D&eacute;v. &eacute;conomique</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/communication.html" class="Style83">Communication</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Commune/Elus.html">Vos élus</a></li>
+                          <li><a href="#" class="MenuBarItemSubmenu">&Eacute;quipements</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementsadmini.html">administratifs</a></li>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementssport.html">sportifs</a></li>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementsculturels.html">culturels</a></li>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementsfestifs.html">associatifs et festifs</a></li>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementssociaux.html">sociaux</a></li>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementsscolaires.html">scolaires</a></li>
+                              <li><a href="../MenuHautNoir/Commune/equipements/equipementjeunesse.html">jeunesse</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/ParcsetJardins.html">Parcs et jardins</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/airesdejeux.html">Aires de jeux</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Commune/budget.html">Budget</a></li>
+                          <li><a href="../MenuHautNoir/Commune/transport.html">Transports</a>                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Partenaires institutionnels</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/CommuneEnvironnementInstitutionnel/SAN.html">SAN du Val d'Europe</a></li>
+                              <li><a href="../MenuHautNoir/Commune/CommuneEnvironnementInstitutionnel/MarneLaVallee.html">Marne la Vall&eacute;e</a></li>
+                              <li><a href="http://www.seine-et-marne.fr/" target="blank">Conseil G&eacute;n&eacute;ral</a></li>
+                              <li><a href="http://www.iledefrance.fr/" target="blank">R&eacute;gion &Icirc;le de France</a></li>
+                              <li><a href="http://www.seine-et-marne.pref.gouv.fr/sections/header/horaires_-_adresses/sous-prefecture_de_t" target="blank">Sous-pr&eacute;fecture de Torcy</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Tourisme</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/tourisme/veniraserris.html">Venir &agrave; Serris</a></li>
+                              <li><a href="../MenuHautNoir/Commune/tourisme/seloger.html">Se loger</a></li>
+                              <li><a href="../MenuHautNoir/Commune/tourisme/Histoire/SariaSerris.html">De Saria &agrave; Serris</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li> <a href="#" a="a" class="MenuBarItemSubmenu">D&eacute;marches</a>
+                        <ul>
+                          <li><a class="MenuBarItemSubmenu" href="#">Social</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Demarches/AidesSociales/CCAS.html">C.C.A.S</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/AidesSociales/DemandeAideS.html">Demandes d'aides sociales</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/AidesSociales/DemandeLogmnt.html">Demande de logement</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/equipementssociaux/epiceriesolidaire.html">&Eacute;picerie Solidaire</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/equipementssociaux/csi.html" class="Style83"><span class="Style78">Centre Social Intercommunal</span></a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">État civil</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/cni.html">Carte d'identit&eacute;</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/passeport.html">Passeport</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/livretdefamille.html">Livret de famille</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/Naissances.html">Naissance</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/Mariage.html">Mariage</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/ReconnaissanceD1enfant.html" class="Style5"><span class="Style78">Reconnaissance</span> d'enfant naturel</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/BaptemeCivil.html">Bapt&egrave;me civil</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/Deces.html">D&eacute;c&egrave;s</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/EtatCivil/Adresse.html">Adresse</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Certificats</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/autorisationsortie.html">Autorisation de sortie de territoire</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/heredite.html">H&eacute;r&eacute;dit&eacute;</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#scolarite">Scolarit&eacute;</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#scolarite">Vie Commune</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#nationalite">Nationalit&eacute;</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#nationalite" class="Style80">Non-imposition</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#residence">R&eacute;sidence</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/certificats/certificats.html#residence">Non gage</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Formulaires</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/permisdeconduire.html">Permis de conduire</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/cartegrise.html">Carte grise</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#electeur">Carte d'&eacute;lecteur</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#inscription">Recensement militaire</a></li>
+                              <li><a href="http://www.mairie-serris.net/MenuHautNoir/Enseignement/inscription%20scolaire.html">Inscription scolaire</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#electeur">l&eacute;galisation de signature</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#huissier">Aide juridictionnelle</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/formulaires/formulaires.html#huissier">Plis de huissier</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">&Eacute;trangers</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Demarches/etrangers/titreSejours.html">Titre de s&eacute;jour</a></li>
+                              <li><a href="../MenuHautNoir/Demarches/etrangers/AttestationAccueil.html">Attestation d'accueil</a></li>
+                              <li><a href="http://vosdroits.service-public.fr/particuliers/F11167.xhtml" target="blank"><span class="Style81">Regroupement</span> familial</a></li>
+                            </ul>
+                          </li>
+<li><a href="../MenuHautNoir/Demarches/equipementssociaux/csi.html">Centre Social Intercommunal</a></li>
+                          <li><a href="../MenuHautNoir/Demarches/equipementssociaux/msp.html">Maison des Services Publics</a></li>
+                          <li><a href="../MenuHautNoir/Demarches/equipementssociaux/epiceriesolidaire.html">&Eacute;picerie Solidaire</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="#" class="MenuBarItemSubmenu">Jeunesse</a>
+                        <ul>
+                          <li><a href="#" class="MenuBarItemSubmenu">Services</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/petiteenfance.html">Petite Enfance</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/enfanceenseignement.html">Enfance Enseignement</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/jeunesse.html">Jeunesse</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Petite Enfance</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/creches.html">Cr&egrave;ches</a></li>
+                              <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/accueilspe.html">Accueil r&eacute;gulier</a></li>
+                              <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/accueilspe2.html">Accueil ponctuel</a></li>
+                              <li><a href="../MenuHautNoir/Jeunesse/PetiteEnfance/RAM.html">Relais d'Assistantes Maternelles Parents Enfants</a></li>
+                              <li><a href="http://www.valeurope-san.fr/info/FR/Liste_des_assistantes_maternelles/040505" target="blank">Liste des assistantes maternelles</a></li>
+                              <li><a href="../menuGauche/Liens.html#enseignement">Liens</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Enfance</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Jeunesse/Enfance/CentresLoisirs.html">Centres de loisirs</a></li>
+                              <li><a href="../MenuHautNoir/Jeunesse/Enfance/AccueilsPeriscolaire.html">Accueil p&eacute;riscolaire</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Jeunesse</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Jeunesse/Jeunesse/ClubPreAdo.html">Club Pr&eacute;-ados</a></li>
+                              <li><a href="../MenuHautNoir/Jeunesse/Jeunesse/MaisonJeunes.html">Espace Jeunes les Semailles</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="https://www.espace-citoyens.net/SERRIS/espace-citoyens/" title="espace famille">Espace Famille</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="#" class="MenuBarItemSubmenu">Enseignement</a>
+                        <ul>
+                          <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/enfanceenseignement.html">Enfance Enseignement</a></li>
+                          <li><a href="#" class="MenuBarItemSubmenu">&Eacute;coles</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/JeanDeLaFontaine.html">Jean de La Fontaine</a></li>
+                              <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/RobertDoisneau.html">Robert Doisneau</a></li>
+                              <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/JulesVerne.html">Jules Verne</a></li>
+                              <li><a href="../MenuHautNoir/Enseignement/Ecoles.html/HenriMatisse.html">Henri Matisse</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Enseignement/Restauration.html">Restauration scolaire</a></li>
+                          <li><a href="../MenuHautNoir/Enseignement/inscription scolaire.html" title="Inscription scolaire">Inscription scolaire</a></li>
+                          <li><a href="../MenuHautNoir/Enseignement/College.html">Coll&egrave;ge</a></li>
+<li><a href="../MenuHautNoir/Enseignement/Lycee.html">Lyc&eacute;e</a></li>
+<li><a href="../MenuHautNoir/Enseignement/Universite.html">Universit&eacute;</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="#" class="MenuBarItemSubmenu">Animation</a>
+                        <ul>
+                          <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/animation.html">Service Animation et Jumelage</a></li>
+                          <li><a href="../MenuHautNoir/Animation/locationsalle.html">Locations de salles</a></li>
+                          <li><a href="../MenuHautNoir/Animation/associations.html">Associations</a></li>
+                          <li><a href="../MenuHautNoir/Commune/equipements/equipementsfestifs.html">&Eacute;quipements</a></li>
+                        </ul>
+                      </li>
+                      <li> <a href="#" class="MenuBarItemSubmenu">Sport&amp;Culture</a>
+                        <ul>
+                          <li><a href="#" class="MenuBarItemSubmenu">Services</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/sport.html">Service des Sports</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/ServiceCulturel.html">Service Culturel</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Plan&egrave;te Sport</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/EcoleMultisports.html">&Eacute;cole multisports</a></li>
+                              <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/planetesportadulte.html">Plan&egrave;te Sport Adulte</a></li>
+                              <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/stagesetsejours.html">Stages et s&eacute;jours</a></li>
+                              <li><a href="../MenuHautNoir/SportEtCulture/PlaneteSports/sportsante.html">Sport sant&eacute;</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Commune/equipements/equipementssport.html">&Eacute;quipements sportifs</a> </li>
+                          <li><a href="../fdc.html">La Ferme des Communes</a>                          </li>
+                          <li><a href="../MenuHautNoir/SportEtCulture/modelage.html">Cours de modelage sculpture</a></li>
+                          <li><a href="#" class="MenuBarItemSubmenu">M&eacute;diath&egrave;ques</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/SportEtCulture/Mediatheque/MediathequeFermeCommunes.html">M&eacute;diath&egrave;que de la Ferme des Communes</a></li>
+                              <li><a href="../MenuHautNoir/SportEtCulture/Mediatheque/MediathequePlacedAriane.html">M&eacute;diath&egrave;que du centre urbain</a></li>
+                              <li><a href="http://mediatheques.valeurope-san.fr">R&eacute;seau des M&eacute;diath&egrave;ques du val d'Europe</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Animation/associations.html">Associations</a></li>
+                        </ul>
+                      </li>
+                      <li> <a href="#" class="MenuBarItemSubmenu">Cadre de vie</a>
+                        <ul>
+                          <li><a href="#" class="MenuBarItemSubmenu">Services</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/servicestechniques.html">Services Techniques</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/urbanisme.html">Am&eacute;nagement Urbanisme</a></li>
+                              <li><a href="../MenuHautNoir/Commune/ServicesMunicipaux/devdurable.html" class="Style78">D&eacute;veloppement Durable et Transport</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../menuGauche/InfoTravaux.html">Info travaux</a></li>
+                          <li><a href="#" class="Style78">Environnement</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/SerrisVilleFleurie.html">Ville fleurie</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/ParcsetJardins.html">Parcs et jardins</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/airesdejeux.html">Aires de jeux</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/collectedechets.html">Collecte des d&eacute;chets</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Environnement/gestiondiff.html">Gestion diff&eacute;renci&eacute;e</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu Style80">Am&eacute;nagement Urbanisme</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/P.L.U.html">Plan Local d'Urbanisme</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/zac.html">ZAC de Serris</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/S.D.R.I.F.html">SDRIF</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/Amenagement et Urbanisme/ReglementsPub.html">R&egrave;glement de publicit&eacute;</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="#" class="MenuBarItemSubmenu">Les projets</a>
+                            <ul>
+                              <li><a href="../MenuHautNoir/Cadre de vie/projets/pig.html">Le PIG</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/projets/ecoquartier.html">&Eacute;co-quartier</a></li>
+                              <li><a href="../MenuHautNoir/Cadre de vie/projets/phase4.html">Phase IV</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="../MenuHautNoir/Cadre de vie/agenda21/DvlpDurable.html" class="Style78">Agenda 21</a></li>
+                        </ul>
+                      </li>
+                    </ul></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td width="126" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="menugauche">
+                <tr valign="top">
+                  <td><!-- #BeginLibraryItem "/Library/untitled.lbi" --><img src="../images/accueil/panneaux-gauche.gif" width="99" height="500" border="0" usemap="#Map" /><!-- #EndLibraryItem -->
+                    <map name="Map" id="Map">
+                      <area shape="rect" coords="4,366,55,382" href="../menuGauche/Contacts.html" alt="contacts" />
+                      <area shape="rect" coords="4,338,41,352" href="../menuGauche/Liens.html" alt="liens" />
+                      <area shape="rect" coords="4,309,80,325" href="../menuGauche/PlanVille.html" alt="plans de ville" />
+                      <area shape="rect" coords="5,279,83,293" href="../menuGauche/SanteUrgence.html" alt="Santé - urgence" />
+                      <area shape="rect" coords="5,251,95,267" href="../menuGauche/Telechargement.html" alt="téléchargements" />
+                      <area shape="rect" coords="5,164,72,179" href="../menuGauche/InfoTravaux.html" alt="Informations travaux" />
+                      <area shape="rect" coords="4,135,98,150" href="../menuGauche/NouveauxArrivant.html" alt="Nouveaux arrivants" />
+                      <area shape="rect" coords="6,221,87,238" href="../menuGauche/VieEconomique/vieeco.html" alt="vie économique" />
+                      <area shape="rect" coords="5,193,70,208" href="../menuGauche/ViePratique/viepratique.html" alt="Vie pratique" />
+                    </map></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="../mentionslegales.html" class="Style57 Style59">Mentions légales</a></td>
+                </tr>
+              </table></td>
+            <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="rubrique">
+                <tr>
+                  <td height="44" valign="bottom"><!-- InstanceBeginEditable name="EditRegion2" --><img src="../images/accueil/bouton-agenda.gif" width="800" height="38" /><!-- InstanceEndEditable --></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" id="contenu">
+                <tr>
+                  <td valign="top"><!-- InstanceBeginEditable name="contenu page" -->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td width="8%" height="30" align="center"><a href="janvier.html" class="StyleTexteChoixhaut">janvier</a></td>
+                        <td width="8%" align="center"><a href="fevrier.html" class="StyleTexteChoixhaut">février</a></td>
+                        <td width="8%" align="center"><a href="mars.html" class="StyleTexteChoixhaut">mars</a></td>
+                        <td width="8%" align="center"><a href="avril.html" class="StyleTexteChoixhaut">avril</a></td>
+                        <td width="8%" align="center"><a href="mai.html" class="StyleTexteChoixhaut">mai</a></td>
+                        <td width="8%" align="center"><a href="juin.html" class="StyleTexteChoixhaut">juin</a></td>
+                        <td width="8%" align="center"><a href="juillet.html" class="StyleTexteChoixhaut">juillet</a></td>
+                        <td width="8%" align="center"><a href="aout.html" class="StyleTexteChoixhaut">août</a></td>
+                        <td width="9%" align="center"><a href="septembre.html" class="StyleTexteChoixhaut">septembre</a></td>
+                        <td width="9%" align="center"><a href="octobre.html" class="StyleTexteChoixhaut">octobre</a></td>
+                        <td width="9%" align="center"><a href="novembre.html" class="StyleTexteChoixhaut"><strong>novembre</strong></a></td>
+                        <td width="9%" align="center"><a href="decembre.html" class="StyleTexteChoixhaut">décembre</a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="StyleTABLEAUborsverts">
+                      <tr>
+                        <td align="center" class="StyleTexteVert24px"><strong>JANVIER</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="gauguin" id="csi5"></a><strong>﻿Exposition à la Ferme des Communes</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Du 28 septembre au 30 décembre<br />
+                        Les jours de spectacles et lors de l'ouverture de la billeterie, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal">&nbsp;</p>
+                          <p class="Styletextenormal">Expo photos  de Valérie Paire <br />
+                          L’exposition sera ouverte&nbsp;les jours de billetterie et de spectacle<br />
+                          du 28 septembre au 30 décembre 2011</p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/2011expophotofdc.gif" width="212" height="164" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="octobre" id="avril7"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="csi" id="csi"></a>Centre Social Intercommunal</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Octobre 2011</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>Ateliers de la Famille, Ensemble le matin, Secrets de femmes, etc.</strong><br />
+                          &gt; <a href="../DossierPDFTelechargement/programmecsi.pdf" target="_blank">Retrouvez le programme des ateliers du CSI.</a></p>
+                          <p>Renseignement compl&eacute;mentaire au 01 78 71 40 90 <br />
+                            ou par mail : <a href="mailto:csi@valeurope-san.fr">csi@valeurope‐san.fr</a></p>
+                          <p>&gt; <a href="../MenuHautNoir/Demarches/equipementssociaux/csi.html">Centre Social Intercommunal.</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/affichecsi.gif" alt="affiche CSI" width="212" height="300" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ptitszed" id="csi35"></a><strong>﻿Ptits Zed : les petits éditeurs tiennent salon au Val d'Europe </strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Du 27 septembre au 22 octobre 2011<br />
+                          Salon le 8 octobre, de 10h00 à 18h00</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>Du 27 septembre au 22 octobre, les médiathèques vous invitent à découvrir les ouvrages portés par les &quot;petits éditeurs&quot;, ces petites maisons indépendantes financièrement,  qui s'inscrivent dans une démarche artistique exigeante et innovante. <strong>Avec en point d'orgue, le salon P'tits Zéd, samedi 8 octobre à la médiathèque du Val d'Europe. </strong></p>
+                        <p><strong>Au programme du 8 octobre : éditeurs, dédicaces, exposition, ateliers et spectacle. </strong></p>
+                        <p><strong>Autour du salon</strong><br />
+                        Du 27 septembre au 22 octobre 2011, les médiathèques du réseau proposeront, en parallèle du salon, des expositions d'illustrations originales, et des ateliers ouverts au jeune public de 6 à 12 ans. L'entrée des expositions est ouverte à tous aux heures d'ouverture des médiathèques. Pour les ateliers, la réservation est conseillée. </p>
+                        <p>Pour tous renseignements sur le salon P'tits Zéd., contactez le réseau des médiathèques<br />
+                        Tél : 01 60 43 66 28 ou rendez-vous sur le site : <a href="http://mediatheques.valeurope-san.fr" target="_blank">http://mediatheques.valeurope-san.fr </a></p>
+                        <p>&gt; <a href="../DossierPDFTelechargement/agenda/2011PTITSZED.pdf" target="_blank">Télécharger le dépliant</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/2011ptitszed.gif" alt="ptitszed" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="rpe" id="csi6"></a>Rencontres pour l'emploi</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Jeudi 6 octobre, de 10h00 à 17h30, Centrex de Lognes</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>Rencontrez plus de 60 entreprises qui recrutent : CDI - CDD - Alternance</strong>                        </p>
+                          <p><strong>Conférences thématiques</strong></p>
+                        <ul>
+                          <li><strong>                            11h00 : une entreprise pour l'alternance</strong></li>
+                          <li><strong>14h00 : les métiers de la Petite Enfance et de l'aide aux familles</strong></li>
+                          <li><strong>15h30 : + de 45 ans, + d'arguments pour l'embauche</strong></li>
+                        </ul>
+                        <p>&gt; <a href="http://www.rencontres-emploi.com" target="_blank">www.rencontres-emploi.com</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/2011RPE.gif" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="petanque" id="csi27"></a>Concours de pétanque</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Samedi 8 octobre, 14h00, Maison communale des 4 Saisons</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>Concours de pétanque en doublette formée</strong></p>
+                            <p>Ouvert à tous sans licence : amateurs, enfants, joueurs occasionnels</p>
+                          <p>Organisé par Serris-pétanque</p>
+                          <p>Renseignements auprès de M. SALLES, 
+tél. : 06 60 36 40 55</p>
+                        <p>&gt; <a href="../DossierPDFTelechargement/progpetanque.pdf" target="_blank">Télécharger le programme 2011 des concours de pétanque</a></p>                          </td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/visuelpetanque.gif" alt="atts" width="143" height="200" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="rando" id="csi7"></a>Randonnée à Coulommiers</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Dimanche 9 octobre</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>Organisée par <a href="../MenuHautNoir/Animation/associations.html#randonnee">Les Randonnées Serrissiennes</a></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt">Randonnées de  14 ou 23 km<br />
+  Rendez-vous à 7H45 au parking de la boulangerie - Serris-bourg.<br />
+</span></font></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt"> Renseignements : 01 60 43 18 72</span></font></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt">&gt; Site : <a href="http://rando.serris.free.fr" target="_blank">rando.serris.free.fr</a><br />
+                          </span></font></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/logorando.gif" alt="atts" width="140" height="143" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="lesstein" id="csi14"></a><strong>﻿Les Stein ou l'invention de l'art moderne</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>vendredi 14 octobre 2011, 20 h 30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><strong><em>﻿﻿</em></strong>﻿Cézanne, Matisse, Picasso…<br />
+﻿﻿﻿Entrée libre
+<p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/conference2.html">En savoir +</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/stein.gif" alt="atts" width="212" height="283" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="soireesalsa" id="csi49"></a><strong>Soirée Salsa Caliente</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 15 octobre 2011, 20 h 00, Gymnase Éric Tabarly</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><em><strong>Organisée par la ville de Serris et l'association Musique Passion</strong></em></p>
+                          <ul>
+                            <li>Orchestre Hounsavi Salsa Orquesta</li>
+                            <li>Danseurs</li>
+                            <li>Démonstration</li>
+                            <li>DJ</li>
+                          </ul>
+                        <p><strong>Buffet gastronomique</strong><br />
+                          Menu adulte : 25 euros<br />
+                          Menu enfant (6-14 ans) : 10 euros<br />
+                        Gratuit pour les moins de 6 ans</p>
+                        <p><strong>Réservation avant le lundi 10 Octobre 2011<br />
+                          </strong>Toute réservation sera effective après le versement du règlement.<br />
+                          Chèque à l’ordre de&nbsp;: Association Musique Passion</p>
+                        <p>Renseignements et réservation auprès de l’Association au&nbsp;: 06 25 73 84 64 ou 06 85 47 19 76 ou 06 22 16 56 59<br />
+                          <br />
+                          Règlement à déposer ou envoyer au&nbsp;: 18, rue de l’Erable 77700 Serris
+                        </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/2011salsa.gif" alt="atts" width="210" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="soireecroisiere" id="csi9"></a><strong>Soirée Danse à Deux : &quot;la croisière s'amuse&quot;</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><strong><em>Samedi 15 octobre 2011, de 20 h 3</em></strong><strong><em>0 à 02 h00, salle Jean de La Fontaine</em></strong></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><font size="2"><font face="Tahoma, Verdana, Helvetica, Arial"><span style="font-size:10pt">Les </span></font></font><font face="Tahoma, Verdana, Helvetica, Arial"><span style="font-size:10pt">vacances continuent le temps d'une soirée, l'association Serris Danse Val d'Europe vous attend nombreux en marin, paréo, barman, sportif ou avec un simple accessoire </span><font size="2"><span style="font-size:10pt">casq</span></font><span style="font-size:10pt">uette....</span></font></p>
+                          <p><font face="Tahoma, Verdana, Helvetica, Arial"><span style="font-size:10pt">Soyez inventifs, originaux, vous serez récompensés !</span></font></p>
+                          <ul>
+                            <li>Toutes danses</li>
+                            <li>                              Show surprise vers 23h00
+                              <br />
+                            </li>
+                          </ul>
+                          <p><font face="Tahoma, Verdana, Helvetica, Arial"><font size="2"><span style="font-size:10pt"><br />
+                            T</span></font><span style="font-size:10pt">arif : </span><font size="2"><span style="font-size:10pt">12 &#8364; </span></font><span style="font-size:10pt">avec Open bar (boissons sans alcool)</span></font></p>
+                          <p><font face="Tahoma, Verdana, Helvetica, Arial"><span style="font-size:10pt">Réservation conseillée - places limités</span><font size="2"><span style="font-size:10pt"><br />
+                          ELIANE : 06.62.70.58.44</span></font></font></p>
+                          <p><font face="Tahoma, Verdana, Helvetica, Arial"><font size="2"><span style="font-size:10pt">                        Bulletin d'inscription sur site : <a href="http://www.dansevaldeurope.fr" target="_blank">www.dansevaldeurope.fr</a></span></font></font></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/2011soireecroisiere.gif" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ocarmen" id="csi3"></a><strong>La fiancée
+de Barbe Bleue</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 15 octobre, 21h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">﻿<span class="Styletextenormal">Théâtre - à voir en famille<br />
+﻿Durée : 1 h00 - 
+                                      À partir de 8 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A </a></span></p>                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle2.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/saison2011/2-Elisabeth-Carecchio-55.gif" alt="photo spectacle" width="212" height="321" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="cm" id="csi11"></a>Conseil municipal</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Lundi 17 octobre, 20h30, salle du Conseil municipal de l'Hôtel de Ville</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ethop" id="ethop"></a><span class="StyleTexteVert24px">﻿<strong class="styletexteTITRE">Et Hop !</strong></span></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Mercredi 19 octobre, 10h30 et 16h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><strong><em>﻿﻿</em></strong><br />
+﻿﻿﻿Spectacle chorégraphique solo<br />
+﻿﻿Durée : 35 min.-
+                                      À partir de 2 ans - 
+                        <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : C</a>                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle3.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/saison2011/3-Camilo-Duriez_7988.gif" alt="photo spectacle" width="212" height="141" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="petanque" id="csi28"></a>Concours de pétanque</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Samedi 22 octobre, 14h00, Maison communale des 4 Saisons</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>Concours de pétanque en doublette tournante</strong></p>
+                            <p>Ouvert à tous sans licence : amateurs, enfants, joueurs occasionnels</p>
+                          <p>Organisé par Serris-pétanque</p>
+                          <p>Renseignements auprès de M. SALLES, 
+tél. : 06 60 36 40 55</p>
+                        <p>&gt; <a href="../DossierPDFTelechargement/progpetanque.pdf" target="_blank">Télécharger le programme 2011 des concours de pétanque</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/visuelpetanque.gif" alt="atts" width="143" height="200" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="loto" id="csi2"></a>Loto Grand Coeur</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Samedi 22 octobre, 20h30, Salle polyvalente Jean de La Fontaine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><font face="Arial"><span style="font-size:11pt">L'association Loto Grand Coeur de Serris organise un loto au b&eacute;n&eacute;fice d'enfants cancereux </span></font> <font face="Arial"><span style="font-size:11pt"><br />
+                          </span></font><span style="font-size:11pt"><font face="Calibri, Verdana, Helvetica, Arial"> <br />
+                            </font><font face="Arial">De nombreux lots à gagner 
+                            <br />
+                            TV &nbsp;LCD 82 CM, four halogene, nettoyeur haute pression, aspirateur eau poussière, cafetière Krups, imprinante Canon, bon d'achat, robet ménager, sauteuse Tefal, friteuse Philipps...
+                            <br />
+                            </font></span>                          <span style="font-size:11pt"><font face="Arial">Comme chaque ann&eacute;e nous vous y attendons nombreux pour une bonne cause.</font></span>                          </p>
+                          <p><span style="font-size:11pt"><font face="Arial">Renseignements : <a href="../MenuHautNoir/Animation/associations.html#lotograndcoeur">Loto Grand Coeur</a><br />
+                          Tél. : 06 98 12 96 73</font></span></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/lotovisuel.gif" alt="atts" width="212" height="235" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="peche" id="csi25"></a>Concours de pêche</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Dimanche 23 octobre, de 7h00 à 18h00, lac des Gassets</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>L'association le <a href="../MenuHautNoir/Animation/associations.html#pecheur">Pêcheur de Marne la Vallée</a> organise aun concours de pêche aux carnassiers</strong></p>
+                          <ul>
+                            <li>Programme
+                              <ul>
+                                <li>                              Tirage des prix : 7h30
+                                </li>
+                              </ul>
+                            </li>
+                            <ul>
+                              <li>                              concours : 9h00 à 16h00</li>
+                              <li>                              remise des prix : 17h00</li>
+                            </ul>
+                          </ul>
+                          <p>&gt; <a href="http://lepecheurdemarnelavallee.fr/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=78&amp;Itemid=113" target="_blank">+ d'infos sur le réglement et l'inscription</a></p>
+<p>Places limitées à 25 postes fixes</p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logolepecheur.gif" width="169" height="200" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="stageplanete" id="csi4"></a>Stage multi-activités sport-culture de Toussaint</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">﻿Du 24 au 31 octobre                       </td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>﻿<strong>Danse - 
+                          hip hop et ﻿sports collectifs (﻿kinball, 
+                          Flag football, 
+                          tchoukball)</strong></p>
+                          <p>Stage à l'attention des ﻿
+                          8-11 ans</p>
+                          <p>﻿En journée continue, accueil échelonné entre 9h et 9h30,<br />
+                          départ échelonné entre 17h et 17h30.</p>
+                          <p>                            Déjeuner et goûter inclus.</p>
+                          <p><strong>Inscriptions du lundi 19 septembre au vendredi 7 octobre auprès du <a href="../MenuHautNoir/Commune/ServicesMunicipaux/Maelis.html">service Maëlis</a> à l'Hôtel de Ville.</strong></p>
+                          <p>                            Tarifs en fonction du quotient familial. Nombre de places limité.<br />
+                            Renseignements et inscriptions au <a href="../MenuHautNoir/Commune/ServicesMunicipaux/Maelis.html">Service Maëlis</a> de l'Hôtel de Ville de Serris<br />
+                        Tél. : 01 60 43 67 92</p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/2011stageplanete.gif" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="novembre" id="avril8"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi38"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 1er novembre, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Miramas AS</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="petanque" id="csi29"></a>Concours de pétanque</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Samedi 5 novembre, 14h00, Maison communale des 4 Saisons</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>Concours de pétanque en doublette formée</strong></p>
+                            <p>Ouvert à tous sans licence : amateurs, enfants, joueurs occasionnels</p>
+                          <p>Organisé par Serris-pétanque</p>
+                          <p>Renseignements auprès de M. SALLES, 
+tél. : 06 60 36 40 55</p>
+                        <p>&gt; <a href="../DossierPDFTelechargement/progpetanque.pdf" target="_blank">Télécharger le programme 2011 des concours de pétanque</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/visuelpetanque.gif" alt="atts" width="143" height="200" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="lesfourberies" id="ethop2"></a><span class="StyleTexteVert24px">﻿<strong class="styletexteTITRE">Les Fourberies 
+de Scapin</strong></span></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 5 novembre 2011, 21h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><strong><em>﻿﻿</em></strong><br />
+                          ﻿﻿﻿﻿﻿﻿Théâtre de marionnettes<br />
+﻿﻿Durée : 1 h 15 - 
+                                      À partir de 12 ans - 
+                          <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A</a>
+<p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle4.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/saison2011/4-sans-titre.gif" alt="photo spectacle" width="212" height="119" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="cm" id="csi12"></a>Conseil municipal</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Lundi 7 novembre, 20h30, salle du Conseil municipal de l'Hôtel de Ville</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop5"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 12 novembre 2011, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Thionville</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre
+                            <br />
+                      </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ramassage" id="csi45"></a>Ramassage des ordures extra-ménagères</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Mercredi 16 novembre</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="munch" id="csi15"></a><strong>﻿Edvard Munch, 
+l'œil moderne</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿﻿﻿﻿vendredi 18 novembre 2011, 20 h 30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><strong><em>﻿﻿</em></strong>﻿﻿﻿﻿Entrée libre
+                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/conference3.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/munch.gif" alt="atts" width="212" height="197" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="petanque" id="csi30"></a>Concours de pétanque</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Samedi 19 novembre, 14h00, Maison communale des 4 Saisons</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>Concours de pétanque en doublette formée</strong></p>
+                            <p>Ouvert à tous sans licence : amateurs, enfants, joueurs occasionnels</p>
+                          <p>Organisé par Serris-pétanque</p>
+                          <p>Renseignements auprès de M. SALLES, 
+tél. : 06 60 36 40 55</p>
+                        <p>&gt; <a href="../DossierPDFTelechargement/progpetanque.pdf" target="_blank">Télécharger le programme 2011 des concours de pétanque</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/visuelpetanque.gif" alt="atts" width="143" height="200" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="filopat" id="ethop3"></a><span class="StyleTexteVert24px">﻿<strong class="styletexteTITRE">Filopat &amp; Patafil</strong></span></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Dimanche 20 novembre 2011, 16h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><strong><em>﻿﻿</em></strong>﻿﻿﻿﻿Ciné-Concert<br />
+﻿﻿﻿Durée : 45 min. - 
+                        À partir de 3 ans -<a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html"> Tarif : B</a>                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle5.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/saison2011/5-IMG_5337.gif" alt="photo spectacle" width="212" height="141" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="rando" id="csi8"></a>Randonnée à Jouarre</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Dimanche 20 novembre</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>Organisée par <a href="../MenuHautNoir/Animation/associations.html#randonnee">Les Randonnées Serrissiennes</a></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt"> Randonnée de 10 ou 18 km<br />
+                            Rendez-vous à 8H15 au parking de la boulangerie - Serris-bourg.<br />
+                          </span></font></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt">Renseignements : 01 60 43 18 72</span></font></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt">&gt; Site : <a href="http://rando.serris.free.fr" target="_blank">rando.serris.free.fr</a></span></font></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/logorando.gif" alt="atts" width="140" height="143" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi39"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 29 novembre, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Quimper Cornouaille TT </p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="decembre" id="avril9"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="courteechelle" id="ethop4"></a><span class="StyleTexteVert24px">﻿<strong class="styletexteTITRE">Soirée débat : si les bébés pouvaient parler...</strong></span></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Vendredi 2 décembre 2011 à 20h30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>Proposé par la Courté Échelle</p>
+                        <p>Avec Myriam Szejer, pédopsychiatre psychanaliste, Présidente de l'association &quot;la cause des bébés&quot;<br />
+                        </p>
+                        <p>Ouvert à tous - Entrée libre</p>
+                        <p>&gt; <a href="http://www.lacourteechelle.info" target="_blank">www.lacourteechelle.info</a></p>
+                        <p>Renseignements auprès du <a href="../MenuHautNoir/Demarches/equipementssociaux/csi.html">Centre Social Intercommunal</a><br />
+                        </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/2011courteechelle.gif" alt="photo spectacle" width="212" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop6"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 3 décembre 2011, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit La Therouanne</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="parleboudu" id="parleboudu"></a><span class="StyleTexteVert24px">﻿<strong class="styletexteTITRE">Par le Boudu</strong></span></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Vendredi 9 décembre, 21 h 00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong><em>﻿</em></strong>﻿﻿﻿﻿Solo clownesque… que pour les adultes !<br />
+﻿Durée :1 h 00 - 
+                                      À partir de 15 ans - 
+                        <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A</a> </p>                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle6.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/saison2011/6-parleboudu.gif" alt="photo spectacle" width="212" height="140" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="rando" id="csi10"></a>Randonnée à Amilis</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Dimanche 11 décembre</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>Organisée par <a href="../MenuHautNoir/Animation/associations.html#randonnee">Les Randonnées Serrissiennes</a></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt"> Randonnée de 12 ou 18 km<br />
+                          Rendez-vous à 8H15 au parking de la boulangerie - Serris-bourg.</span></font></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt">Renseignements : 01 60 43 18 72</span></font></p>
+                          <p><font face="Calibri, Verdana, Helvetica, Arial"><span style="font-size:11pt">&gt; Site : <a href="http://rando.serris.free.fr" target="_blank">rando.serris.free.fr</a></span></font></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/logorando.gif" alt="atts" width="140" height="143" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="rugby" id="ethop16"></a>﻿Rugby : championnat de France Fédérale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Dimanche 11 décembre, 15h00, stade des Marmousets</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le RCVM Val d'Europe reçoit le RC Auxerrois</p>
+                          <p>Entrée libre</p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/LOGO-RCVM.gif" alt="photo spectacle" width="212" height="102" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="cm" id="csi13"></a>Conseil municipal</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter">Lundi 12 décembre, 20h30, salle du Conseil municipal de l'Hôtel de Ville</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop7"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 17 décembre 2011, 19h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Reims</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi40"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 20 décembre, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Poitiers TTAC</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="janvier" id="janvier"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hitch" id="csi20"></a><strong>﻿﻿﻿﻿﻿﻿<span class="styletexteTITRE">Hitch</span></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿﻿﻿﻿﻿﻿﻿Samedi 14 janvier 2012, 21h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>﻿﻿﻿﻿﻿﻿Théâtre<br />
+﻿Durée : :1 h 20. - 
+                                      À partir de 10 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A </a></p>
+                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle7.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/7-Hitch-Hitchcock-Truffautrec.gif" alt="atts" width="212" height="296" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="fridakahlo" id="csi16"></a><strong>﻿﻿﻿<span class="styletexteTITRE">Frida Kahlo 
+et Diego Rivera</span></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿﻿﻿﻿vendredi 20 janvier 2012, 20 h 30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p> ﻿﻿﻿Entrée libre
+</p>                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/conference4.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/frida-&amp;-diego.gif" alt="atts" width="212" height="241" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop8"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 21 janvier 2012, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Bois Colombes</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="leprincetigre" id="csi21"></a><strong>﻿﻿﻿﻿﻿﻿Le Prince Tigre</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Dimanche 29 janvier 2012, 16h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p><strong>﻿</strong>﻿﻿﻿﻿Théâtre d'ombre et musique<br />
+﻿Durée : 40 min. - 
+                                      À partir de 3 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : B </a></p>                          
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle8.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/8-Prince-Tigre-photo-TG1.gif" alt="atts" width="212" height="159" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="fevrier" id="avril2"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="influences" id="csi22"></a><strong>﻿﻿﻿﻿﻿﻿﻿﻿﻿Influences</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 4 février 2012, 21h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal"><strong><em>﻿</em></strong>﻿﻿﻿﻿Magie mentale<br />
+﻿Durée : 1 h 10 - 
+                                      À partir de 15 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A</a></p>
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle9.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/9-influences--Visuel.gif" alt="atts" width="212" height="120" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop9"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 4 février 2012, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Savino</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="boltanski" id="csi17"></a><strong>﻿﻿﻿Christian Boltanski</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>vendredi 10 février 2012, 20 h 30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal"><strong>﻿</strong>Entrée libre </p>
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/conference5.html">En savoir +﻿</a></p><p>&nbsp;</p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/boltanski.gif" alt="atts" width="212" height="283" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td height="45">&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="petitpoucet" id="csi23"></a><strong>﻿﻿﻿﻿﻿﻿﻿﻿﻿En attendant
+le petit poucet</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿﻿﻿Dimanche 12 février 2012, 16h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal"><strong>﻿</strong>﻿Théâtre jeune public<br />
+﻿Durée : 45 min. - 
+                                      À partir de 4 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : B</a></p>
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle10.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/10-poucet3.gif" alt="atts" width="212" height="160" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="rugby" id="ethop17"></a>﻿Rugby : championnat de France Fédérale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Dimanche 12 février, 15h00 stade des Marmousets</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le RCVM Val d'Europe reçoit l'Amical Club de Soissons</p>
+                          <p>Entrée libre</p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/LOGO-RCVM.gif" alt="photo spectacle" width="212" height="102" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi41"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 14 février, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Mulhouse TT</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop10"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 18 février 2012, 19h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Franconville</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi42"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 28 février, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Marly le Roi/Elancourt</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="mars" id="avril3"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="erro" id="csi18"></a><strong>﻿﻿﻿Erro</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>vendredi 9 mars 2012, 20 h 30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal"><strong>﻿﻿﻿</strong>Jean-Baptiste Ingres, Edvard Munch, Pablo Picasso, Grant Wood, René Magritte, Hans Bellmer, Roberto Matta, Roy Lichtenstein, Andy Warhol, Bernard Rancillac <br />
+Entrée libre
+                        </p>
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/conference6.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/erro.gif" alt="atts" width="212" height="286" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop11"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 10 mars 2012, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Morsang</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="onvitpeu" id="csi24"></a><strong>﻿﻿﻿<span class="styletexteTITRE">On vit peu 
+mais on meurt longtemps</span></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿﻿﻿﻿﻿﻿Samedi 17 mars 2012, 21h00 <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>﻿﻿﻿Humour<br />
+﻿﻿Durée : 1 h 15 - 
+                                      À partir de 10 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A </a></p>                          
+                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle11.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/11-Visuel-On-vit-peu-5.gif" alt="atts" width="212" height="142" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop12"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 24 mars 2012, 19h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Nancy</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="berenice" id="csi32"></a><strong>﻿﻿﻿<span class="styletexteTITRE">Bérénice</span></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿Samedi 31 mars 2012, 21h00 <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p>﻿﻿﻿<strong>﻿﻿</strong> ﻿﻿﻿﻿﻿﻿Théâtre<br />
+﻿﻿Durée : 1 h 15 - 
+                                      À partir de 15 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A </a></p>                          
+                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle12.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/12-serpentine_2.gif" alt="atts" width="212" height="212" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="avril" id="avril10"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi43"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 3 avril, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Bordeaux CAM</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="afleurdeau" id="csi33"></a><strong>﻿﻿﻿﻿﻿﻿<span class="styletexteTITRE">À fleur d'eau</span></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>﻿Mercredi 4 avril 2012, 10h30 et 16h00 <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><strong><em>﻿﻿</em></strong>﻿﻿﻿﻿Spectacle d'ombres, marionnettes et lanterne magique<br />
+﻿﻿Durée : 30 min. - 
+                                      À partir de 6 mois - 
+                        <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : C</a>                          <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle13.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/A-fleur-d'eau-2.gif" alt="atts" width="212" height="318" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="lespeintres" id="csi34"></a><strong>﻿﻿﻿﻿﻿﻿Les peintres au charbon </strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 14 avril 2012, 21h00, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal"><strong>﻿﻿﻿<em>﻿</em></strong>﻿﻿﻿﻿﻿﻿Théâtre<br />
+﻿﻿Durée  : 1 h 20 - 
+                                      À partir de 10 ans - 
+                                      <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/tarifsfdc.html">Tarif : A </a></p>
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/spectacle14.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/14-LesPeintres_LaCieduTheatre_041.gif" alt="atts" width="212" height="141" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop13"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 21 avril 2012, 19h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Florange</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <a name="mai" id="avril4"></a>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi44"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 1er mai, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Echirolles Eybens TT</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="lerotisme" id="csi19"></a><strong>﻿﻿﻿L'érotisme dans
+l'art contemporain</strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>v﻿endredi 4 mai 2012, 20 h 30, <a href="../fdc.html">Ferme des Communes</a></em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="Styletextenormal">Entrée libre
+</p>
+                        <p>&gt; <a href="../MenuHautNoir/SportEtCulture/fermedescommunes/conference7.html">En savoir +﻿</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="145" align="center" valign="top"><img src="../images/agenda/saison2011/errotisme-1.gif" alt="atts" width="212" height="173" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop14"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 5 mai 2012, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Troyes</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="hand" id="ethop15"></a>﻿Handball : championnat de France Nationale 3</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><strong><em>Samedi 19 mai 2012, 21h00, gymnase Olympe de Gouges</em></strong></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px"><strong><em>﻿</em></strong>Le HBCVE reçoit Massy</p>
+                          <p>Catégorie Sénior + 16 ans garçons</p>
+                          <p>Entrée libre <br />
+                          </p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/logo-hand.gif" alt="photo spectacle" width="180" height="300" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="styletableauTITRE">
+                      <tr>
+                        <td class="styletexteTITRE"><a name="ATTS" id="csi46"></a>ATT Serris Val d'Europe - Pro B féminine</td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styledatenewsletter"><p><span style="font-family:Calibri; font-size:12.0pt; "><strong><em>Mardi 29 mai, 20h00, gymnase Éric Tabarly</em></strong></span></p></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="Styletextenormal"><p class="StyleTexteVert24px">L'ATTS reçoit Mayenne CA</p>
+                          <p class="Styletextenormal">Entrée libre</p>
+                          <p>&gt; <a href="../DossierPDFTelechargement/atts.pdf" target="_blank">Retrouvez le programme complet des rencontres à Serris</a></p></td>
+                        <td width="10">&nbsp;</td>
+                        <td width="225" align="center" valign="top"><img src="../images/agenda/afficheatts.png" alt="atts" width="212" height="300" align="right" class="StyleIMAGE" /></td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td width="180" valign="bottom"><a href="#hautdepage"><img src="../images/accueil/bouton-hautdepage.gif" alt="bouton haut de page" width="171" height="25" border="0" /></a></td>
+                      </tr>
+                    </table>
+                  <!-- InstanceEndEditable --></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+</div>
+<script type="text/javascript">
+<!--
+var MenuBar = new Spry.Widget.MenuBar("MenuBar", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

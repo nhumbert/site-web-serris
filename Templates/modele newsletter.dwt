@@ -1,0 +1,196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>La newsletter de Serris</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+p.MsoNormal {
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:12.0pt;
+font-family:"Times New Roman";
+}
+p.MsoNormal1 {margin:0cm;
+margin-bottom:0.0001pt;
+font-size:12pt;
+font-family:Arial, Helvetica, sans-serif;
+}
+.Style123 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.Style106 {font-size: 10px}
+.Style93 {font-size: 12px; font-weight: bold;}
+.styledatelieu {
+	font-size: small;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;
+	text-align: justify;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+.styletitre {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	text-align: justify;
+	background-image: url(../images/accueil/fond-sous-titre.gif);
+	background-repeat: no-repeat;
+	font-weight: bold;
+	margin-left: 10px;
+}
+.Textenewsletternormal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-align: justify;
+	margin-left: 15px;
+}
+.Textenewslettergras {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #000000;
+	text-align: justify;
+}
+.Textenewslettervert {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #669933;
+	text-align: justify;
+}
+.Style57 {
+	font-size: 80%;
+	color: #000000;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	margin-left: 10px;
+}
+.Styletextenormal {	text-align: justify;
+	font-size: 80%;
+	color: #000000;
+	margin-left: 10%;
+	margin-right: 2%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	vertical-align: top;
+}
+.Style136 {line-height: normal; font-weight: bold; color: #000000; text-align: justify; font-style: normal;}
+.Style137 {	font-size: 80%;
+	color: #000000;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+.styledatenewsletter {
+	font-size: small;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;
+	text-align: justify;
+}
+body {
+	margin-top: 0px;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<div align="center">
+  <table width="600" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="125" colspan="2" align="center" valign="middle"><img src="../newsletter/4tetiere-newsletter.png" alt="tetiere newsletter" width="600" height="125" border="0"></td>
+    </tr>
+    <tr>
+      <td width="300" height="25" align="center" valign="middle" bgcolor="#8BBB13"><span class="Style14 Style123">Num&eacute;ro 79 - 18 octobre 2010 </span></td>
+      <td width="300" height="25" align="center" valign="middle" bgcolor="#8BBB13"><span class="Style123"><a href="http://www.mairie-serris.net" target="_blank">www.mairie-serris.net</a><a href="../accueil.html" class="Style14"></a></span></td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellpadding="0" cellspacing="0" bordercolor="#8BBB13">
+    <tr>
+      <td width="1" height="2" bordercolor="0">&nbsp;</td>
+      <td width="444" height="2" bordercolor="0"><p>&nbsp;</p></td>
+      <td width="4" height="2" bordercolor="0">&nbsp;</td>
+      <td width="150" height="2" bordercolor="0">&nbsp;</td>
+      <td width="1" height="2" bordercolor="0">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+      <td colspan="3" valign="bottom"><p class="styletitre"><a name="titre"></a>Titre de l'article</p></td>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+      <td colspan="3" valign="top"><blockquote>          
+        <p align="justify" class="Textenewsletternormal" name="actheatre">Nous invitons d&egrave;s &agrave; pr&eacute;sent les parents &agrave; prendre les dispositions n&eacute;cessaires pour assurer la garde de leurs enfants</p>
+        <p align="justify" class="Textenewslettergras" name="actheatre">texte en gras</p>
+        <p align="justify" class="Textenewslettervert" name="actheatre">texte en gras vert</p>
+      </blockquote>        </td>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1" bordercolor="0">&nbsp;</td>
+      <td colspan="3" bordercolor="0">&nbsp;</td>
+      <td width="1" bordercolor="0">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+      <td colspan="3" valign="bottom"><p class="styletitre"><a name="titre"></a>Soir&eacute;e Cabaret</p></td>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+      <td colspan="3" valign="top"><p class="styledatelieu">Samedi 20 novembre &agrave; 20h00,<br />
+      Maison Communale des 4 Saisons </p></td>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+      <td valign="top"><p class="Textenewsletternormal">Organis&eacute;e par <a href="../Animation/associations.html#musiquepassion">Musique Passion</a> et la Ville de Serris</p>
+        <p class="Textenewsletternormal"> Buffet froid (ap&eacute;ritif-vin-caf&eacute; inclus)<br />
+          Magicien (St&eacute;phane Guekko) - Humoriste (Emanuel Pallas) - Danseuses (Sunshine)<br>
+        </p>
+        <p class="Textenewsletternormal">        Tarifs :<br />
+          Adultes 25 euros<br />
+          Enfants de 6 &agrave; 14 ans : 10 euros<br />
+      Gratuit pour les moins de 6 ans</p>
+      <p class="Textenewsletternormal"><span class="Textenewslettergras">R&eacute;servation avant le lundi 15 novembre.</span><br />
+Toute r&eacute;servation sera effective apr&egrave;s le versement du r&eacute;glement. <br />
+Renseignements et r&eacute;servation aupr&egrave;s de l'association Musique Passion au <br />
+06 85 47 19 76 ou 06 25 73 84 64 </p></td>
+      <td width="4" align="center" valign="top">&nbsp;</td>
+      <td align="center" valign="top"><div align="center"><img src="../images/agenda/2010cabaret.gif" width="141" height="200"></div></td>
+      <td width="1" bgcolor="#8BBB13">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="1">&nbsp;</td>
+      <td colspan="3" valign="top">&nbsp;</td>
+      <td width="1">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="600" border="0">
+    <tr>
+      <td width="300" height="20" align="center" valign="middle" bgcolor="#8BBB13"><a href="mailto:n.humbert@mairie-serris.net" class="Style93">Service Communication</a></td>
+      <td width="300" height="20" align="center" valign="middle" bgcolor="#8BBB13"><a href="mailto:n.humbert@mairie-serris.net?subject=d&eacute;sabonnement newsletter" class="Style93">Se d&eacute;sabonner</a></td>
+    </tr>
+    <tr>
+      <td height="35" colspan="2" align="center" valign="middle"><span class="Style106"><a href="http://www.mairie-serris.net" target="_blank">www.mairie-serris.net</a><br>
+        Conform&eacute;ment &agrave; la loi du 6 janvier 1978 relative &agrave; l'informatique et aux libert&eacute;s,<br>
+vous avez le droit d'exercer un pouvoir d'acc&eacute;s et de rectification des donn&eacute;es vous concernant.<br>
+Pour exercer ce droit, vous pouvez &eacute;crire ou envoyer un <a href="mailto:n.humbert@mairie-serris.net">mail au responsable du site (n.humbert@mairie-serris.net) </a>. </span></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+#is-password-form-layer-label{
+font-size:16px;
+border: 1px solid black;
+padding: 5px;
+width:400px;
+
+background-color: #FFFFE0;
+z-index: 99999999;
+}
+
+.flash-message
+{
+color:#0000ff;
+font-size:14px;
+font-weight:bold;
+}
+
+.banner-cariboost-page
+{
+background-color:#e2f3ff;
+
+border-style:solid;
+border-width:0px;
+border-bottom-width:1px;
+border-left-width:1px;
+border-color:#80a5b7;
+width:100%;
+height:100%;
+}
+
+
+.banner-text
+{
+color:#333333;
+font-size:12px;
+text-decoration:none;
+font-weight:normal;
+font-family:"Verdana";
+text-align:center;
+}
+.banner-text:hover
+{
+color:#000000;
+}
+
+.sub-banner-cariboost
+{
+width:100%;
+height:100%;
+padding:0px;
+}

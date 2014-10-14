@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.mairie-serris.net/Site serris/fluxrss.xml" rel="self" type="application/rss+xml" />
+
+
+
+
+
+<title>Site de la ville de Serris</title>
+<description>Site officiel de la commune de Serris</description>
+<link>http://www.mairie-serris.net</link>
+<pubDate>Mon, 16 may 2011 16:48:27 GMT</pubDate>
+
+
+
+<item>
+<title>Portes ouvertes de la Boîte à Crayons</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#boiteacrayons</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#boiteacrayons</guid>
+<pubDate>Fri, 20 may 2011 09:02:27 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Concert et audition de l'École de Musique Serrissienne</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#ecolemusique</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#ecolemusique</guid>
+<pubDate>Fri, 20 may 2011 09:00:27 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Grève du mardi 31 mai</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#greve</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#greve</guid>
+<pubDate>Mon, 16 may 2011 16:48:27 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Journée de l'Archélologie</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#archeologie</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#archeologie</guid>
+<pubDate>Thu, 12 may 2011 19:02:27 GMT</pubDate>
+</item>
+
+<item>
+<title>L'Épicerie Solidaire recherche des Bénévoles</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#epicerie</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#epicerie</guid>
+<pubDate>Thu, 12 may 2011 19:01:27 GMT</pubDate>
+</item>
+
+<item>
+<title>Exposition de l'association Créa Relax</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#crearelax</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/agenda.html#crearelax</guid>
+<pubDate>Thu, 12 may 2011 19:00:27 GMT</pubDate>
+</item>
+
+
+
+<item>
+<title>Concours des maisons fleuries 2011</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#maisonsfleuries</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#maisonsfleuries</guid>
+<pubDate>Wed, 27 apr 2011 14:42:27 GMT</pubDate>
+</item>
+
+
+
+
+<item>
+<title>Campagne de déclaration 2011 de l'impôt sur le revenu </title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#impot2011</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#impot2011</guid>
+<pubDate>Tue, 19 apr 2011 14:25:27 GMT</pubDate>
+</item>
+
+
+
+</channel>
+</rss>

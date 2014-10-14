@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>EasyRotator Preview</title>
+<script language="javascript" type="text/javascript">
+var expDays = 400;
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+/*function getCookieVal (offset) {  
+	var endstr = document.cookie.indexOf (";", offset);  
+	if (endstr == -1) { endstr = document.cookie.length; }
+	return unescape(document.cookie.substring(offset, endstr));
+}
+function GetCookie (name) {  
+	var arg = name + "=";  
+	var alen = arg.length;  
+	var clen = document.cookie.length;  
+	var i = 0;  
+	while (i < clen) {    
+		var j = i + alen;    
+		if (document.cookie.substring(i, j) == arg) return getCookieVal (j);    
+		i = document.cookie.indexOf(" ", i) + 1;    
+		if (i == 0) break;   
+	}  
+	return null;
+}
+function SetCookie (name, value) {  
+	var argv = SetCookie.arguments;  
+	var argc = SetCookie.arguments.length;  
+	var expires = (argc > 2) ? argv[2] : null;  
+	var path = (argc > 3) ? argv[3] : null;  
+	var domain = (argc > 4) ? argv[4] : null;  
+	var secure = (argc > 5) ? argv[5] : false;  
+	document.cookie = name + "=" + escape (value) + 
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+	((path == null) ? "" : ("; path=" + path)) +  
+	((domain == null) ? "" : ("; domain=" + domain)) +    
+	((secure == true) ? "; secure" : "");
+}*/
+/*function SetCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+function GetCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    { 
+    c_start=c_start + c_name.length+1; 
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    } 
+  }
+return null; //"";
+}*/
+
+var savedValue = null;
+function restorePageBG()
+{
+	return; // ALL OF THIS IS HANDLED REMOTELY IN AS
+	/*
+	//var savedValue = readPref(); //GetCookie('xfs_preview_color');
+	alert('cookie value: ' + savedValue);
+	if (savedValue == null || savedValue == '')
+		savedValue = '#FFFFFF';
+	//document.bgColor = savedValue;
+	document.body.style.backgroundColor = savedValue;
+	document.getElementById('color_ti').value = savedValue;
+	*/
+}
+function savePageBG()
+{
+	var curValue = document.getElementById('color_ti').value;
+	//document.bgColor = curValue;
+	document.body.style.backgroundColor = curValue;
+	//writePref(curValue); //SetCookie('xfs_preview_color', curValue, 400);// exp);
+}
+</script>
+</head>
+<body onload="restorePageBG();">
+<div align="center" style="margin-top: 50px;">
+	    <!-- Begin DWUser_EasyRotator -->
+	<script type="text/javascript" src="http://c520866.r66.cf2.rackcdn.com/1/js/easy_rotator.min.js"></script>
+	<div class="dwuserEasyRotator" style="width: 600px; height: 310px; position:relative; text-align: left;" data-erConfig="{autoplayEnabled:false, lpp:'102-105-108-101-58-47-47-47-85-115-101-114-115-47-110-105-99-111-108-97-115-104-117-109-98-101-114-116-47-68-111-99-117-109-101-110-116-115-47-69-97-115-121-82-111-116-97-116-111-114-80-114-101-118-105-101-119-47-112-114-101-118-105-101-119-95-115-119-102-115-47'}" data-erName="presentationfdc">
+		<div data-ertype="content" style="display: none;"><ul data-erlabel="Main Category">
+	<li>
+		<img class="main" src="../../../images/culture/fdc.gif" alt="Le centre culturel de la Ferme des Communes" />
+		<img class="thumb" src="../../../images/culture/fdc.gif" />
+		<span class="title">Le centre culturel de la Ferme des Communes</span>
+	</li>
+	<li>
+		<a class="mainLink" href="../../../fdc.html"><img class="main" src="../../../images/culture/musset2.gif" alt="La salle de spectacle Alfred de Musset" /></a>
+		<img class="thumb" src="../../../images/culture/musset2.gif" />
+		<span class="title">La salle de spectacle Alfred de Musset</span>
+		<span class="desc">Capacité : 250 places assises et 450 débout.
+		Loges, espace accueil avec bar, espace d'exposition, espace billetterie et vestiaires.
+		Superficie : 495 m2. 
+		- 19 spectacles et conférences par an
+		- accueil de compagnie en résidences
+		- lieu de représentations pour les associations et les scolaires</span>
+	</li>
+	<li>
+		<img class="main" src="../../../images/culture/maisonart.gif" alt="La Maison des Arts" />
+		<img class="thumb" src="../../../images/culture/maisonart.gif" />
+		<span class="title">La Maison des Arts</span>
+		<span class="desc">École de musique avec 6 salles de musique pour la pratique individuelle et 3 salles pour la pratique collective</span>
+	</li>
+	<li>
+		<a class="mainLink" href="../Mediatheque/MediathequeFermeCommunes.html"><img class="main" src="../../../images/culture/mediatheque.gif" alt="La médiathèque de la Ferme des Communes" /></a>
+		<img class="thumb" src="../../../images/culture/mediatheque.gif" />
+		<span class="title">La médiathèque de la Ferme des Communes</span>
+		<span class="desc">Gérée par le SAN du Val d'Europe. Fond thématique : la peinture</span>
+	</li>
+	<li>
+		<img class="main" src="../../../images/culture/halle.gif" alt="La Halle Couverte" />
+		<img class="thumb" src="../../../images/culture/halle.gif" />
+		<span class="title">La Halle Couverte</span>
+		<span class="desc">Prévue pour accueillir des spectacles extérieurs.
+		La halle est la réhabilitation de la grange utilisée dans l'ancienne ferme.</span>
+	</li>
+	<li>
+		<a class="mainLink" href="../../Jeunesse/Jeunesse/MaisonJeunes.html"><img class="main" src="../../../images/jeunesse/semailles.gif" alt="L'espace jeunes les Semailles" /></a>
+		<img class="thumb" src="../../../images/jeunesse/semailles.gif" />
+		<span class="title">L'espace jeunes les Semailles</span>
+		<span class="desc">La maison des jeunes de Serris destinée aux plus de 14 ans</span>
+	</li>
+</ul>
+</div>
+		<div data-ertype="layout" data-ertemplateName="NONE" style="">			<div class="erimgMain" style="position: absolute; left:0;right:0;top:0;bottom:70px;" data-erConfig="{___numTiles:3, scaleMode:'fillArea', imgType:'main', __loopNextButton:false, arrowButtonMode:'rollover'}">
+				<div class="erimgMain_slides" style="position: absolute; left:0px; top:0; bottom:0; right:0px;">
+					<div class="erimgMain_slide">
+						<div class="erimgMain_img" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0;"></div>
+						<div class="" style="background: #000; background: rgba(0,0,0,0.85); position: absolute; left: 0; right: 0; bottom: 0; padding: 5px; color: #FFF; font-family: Arial; font-size: 12px;">
+							<p class="erimgMain_title" style="padding: 0; margin: 0 0 3px 0; font-weight: bold;"></p>
+							<p class="erimgMain_desc" style="padding: 0 0 10px 0; margin: 0;"></p>
+						</div>
+					</div>
+				</div>
+				<div class="erimgMain_arrowLeft" style="position:absolute; left: 10px; top: 50%; margin-top: -15px;" data-erConfig="{image:'circleSmall', image2:'circleSmall'}"></div>
+				<div class="erimgMain_arrowRight" style="position:absolute; right: 10px; top: 50%; margin-top: -15px;"></div>
+			</div>
+			<div class="erimgMain rotatorTileNav" style="position: absolute; left:0;right:0;bottom:0;height:80px;" data-erConfig="{numTiles:-1, scaleMode:'fillArea', imgType:'thumb', loopNextButton:false, arrowButtonMode:'rollover', __slideLinkEvent:'rollover'}">
+				<div style="position: absolute; left: 0; top: 10px; right: 0; bottom: 0; background: #FFF;"></div>
+				<div class="erimgMain_slides" style="position: absolute; left:0px; top:0; bottom:0; right:0px;">
+					<div class="erimgMain_slide">
+						<div class="erimgMain_img" style="position: absolute; left: 0; right: 0; top: 10px; bottom: 0; margin: 2px 1px;"></div>
+						<!-- <div class="" style="background: #555; position: absolute; left: 1px; right: 1px; top: 10px; bottom: 0; padding: 5px; color: #FFF; font-family: Arial; font-size: 12px; text-align: center;">
+							<p class="erimgMain_title" style="padding: 5px; margin: 0 0 3px 0; font-weight: bold;"></p>
+						</div> -->
+						<div class="selectionArrow visibleWhenSelected" style="position: absolute; top: 0; left: 50%; margin-left: -10px; width: 20px; height: 10px; background-image: url('http://easyrotator.s3.amazonaws.com/1/i/rotator/FFF_arrow10_export.png');"></div>
+					</div>
+				</div>
+				<div class="erimgMain_arrowLeft" style="position:absolute; left: 60px; top: 50%; margin-top: -10px;" data-erConfig="{image:'circleSmall', image2:'circleSmall'}"></div>
+				<div class="erimgMain_arrowRight" style="position:absolute; right: 60px; top: 50%; margin-top: -10px;"></div>
+			</div><div class="erabout erFixCSS3" style="color: #FFF; text-align: left; background: #000; background:rgba(0,0,0,0.93); border: 2px solid #FFF; padding: 20px; font: normal 11px/14px Verdana,_sans; width: 300px; border-radius: 10px; display:none;">
+			This <a style="color:#FFF;" href="http://www.dwuser.com/easyrotator/" target="_blank">jQuery slider</a> was created with the free <a style="color:#FFF;" href="http://www.dwuser.com/easyrotator/" target="_blank">EasyRotator</a> software from DWUser.com.
+			<br /><br />
+			Need a powerful <a style="color:#FFF;" href="http://www.dwuser.com/flashslideshow/" target="_blank">Flash slideshow</a> creator with built-in iPhone/iPad/Android support?  EasyRotator is supported by the <a style="color:#FFF;" href="http://www.dwuser.com/flashslideshow/" target="_blank">XML Flash Slideshow v4 Software</a>.
+			<br /><br />
+			<a style="color:#FFF;" href="#" class="erabout_ok">OK</a>   
+		</div>
+		<noscript>
+			Powered by <a href="http://www.dwuser.com/easyrotator/">EasyRotator</a>, a free and easy <a href="http://www.dwuser.com/easyrotator/">jQuery slider</a> builder from DWUser.com. 
+		</noscript>
+		</div>
+	</div>
+	<!-- End DWUser_EasyRotator -->
+</div>
+<div style="position: absolute; bottom: 0; left:50%; margin-left: -160px; width: 320px; background-color: 
+#FFFFFF; border: 1px solid #666666; text-align: center; font-size:12px;" align="center">
+	Hex BG Color: <input type="text" style="width: 100px;" id="color_ti"/><input name="Button" type="button" onclick="savePageBG()" value="Apply" />
+</div>
+</body>
+</html>

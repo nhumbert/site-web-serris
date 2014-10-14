@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.mairie-serris.net/Site serris/fluxrss.xml" rel="self" type="application/rss+xml" />
+
+
+<title>Site de la ville de Serris</title>
+<description>Site officiel de la commune de Serris</description>
+<link>http://www.mairie-serris.net</link>
+<pubDate>Tue, 28 aug 2013 15:48:27 GMT</pubDate>
+
+
+<item>
+<title>Information travaux cours du Tage</title>
+<link>http://www.mairie-serris.net/menuGauche/InfoTravaux.html</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/menuGauche/InfoTravaux.html</guid>
+<pubDate>Thu, 09 oct 09:59:57 GMT</pubDate>
+</item>
+
+<item>
+<title>Matinée du 13 octobre</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#matineelundi13octobre</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#matineelundi13octobre</guid>
+<pubDate>Fr, 03 oct 09:59:57 GMT</pubDate>
+</item>
+
+<item>
+<title>Les Jeunes Sapeurs Pompiers de Chessy recrutent</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#jsp</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#jsp</guid>
+<pubDate>Fri, 03 oct 09:59:57 GMT</pubDate>
+</item>
+
+
+<item>
+<title>L'Espace Famille est en ligne</title>
+<link>https://www.espace-citoyens.net/SERRIS/espace-citoyens/</link>
+<guid isPermaLink="true">https://www.espace-citoyens.net/SERRIS/espace-citoyens/</guid>
+<pubDate>Wed, 13 feb 09:59:57 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Une application smartphone pour le site de la ville</title>
+<link>http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#application</link>
+<guid isPermaLink="true">http://www.mairie-serris.net/MenuHautNoir/Actualites/information.html#application</guid>
+<pubDate>Fry, 21 jun 09:34:57 GMT</pubDate>
+</item>
+
+</channel>
+</rss>

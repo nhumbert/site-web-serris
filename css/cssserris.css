@@ -1,0 +1,151 @@
+@charset "UTF-8";
+body {
+	font-family: Calibri, Helvetica, Arial;
+	background-color: #FFFFFF;
+	margin: 0;
+}
+.StyleTABLEAUborsverts {
+	margin-top: 10px;
+	border: thin dashed #8BBB1C;
+}
+.tableauaffiche {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: 14px;
+	text-align: justify;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0;
+}
+.Styledatenewsletter {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: 16px;
+	font-style: italic;
+	color: #000000;
+	text-align: left;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.StyletextenormalVERT {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: 14px;
+	padding-right: 15px;
+	color: #8BBB1C;
+	font-weight: bold;
+	vertical-align: top;
+}
+.Accueilmenudroit {
+	font-family: Calibri, Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #8BBB1C;
+	text-decoration: none;
+	text-align: center;
+	background-image: url(../images/accueil/bouton-droite2.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#principal #contenu #menudroit .Accueilmenudroit a {
+	color: #7AB201;
+	text-decoration: none;
+	font-variant: normal;
+	font-weight: normal;
+}
+#principal #contenu .ACCUEIltexteannoncebas a {
+	color: #000000;
+	margin-top: 20px;
+	text-decoration: none;
+}
+.ACCUEIltexteannoncebas {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	background-image: url(../images/accueil/fondannonce3.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+	margin-top: 20px;
+}
+.BordsVertsHautBas {
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: dashed;
+	border-top-color: #8BBB1C;
+	border-bottom-color: #8BBB1C;
+	border-bottom-style: dashed;
+	color: #8BBB1C;
+}
+.BordsVertsHaut {
+	border-top-width: thin;
+	border-top-style: dashed;
+	border-top-color: #8BBB1C;
+}
+.Styletextenormal {
+	font-family: Calibri, Arial;
+	font-size: 14px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #000000;
+	text-align: justify;
+	vertical-align: top;
+}
+.BordsVertsBas {
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-bottom-color: #8BBB1C;
+	border-bottom-style: dashed;
+
+}
+.styletableauTITRE {
+	border-top-width: thin;
+	border-top-style: dashed;
+	border-top-color: #8BBB1C;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	background-position: bottom;
+	margin-bottom: 4px;
+}
+.styletexteTITRE {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	background-image: url(../images/accueil/fond-sous-titre.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	text-align: left;
+}
+.styletexteTITRE2014 {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: large;
+	font-weight: bold;
+	color: #000000;
+	background-repeat: no-repeat;
+	background-position: left center;
+	text-align: left;
+	font-variant: normal;
+}
+.StyletexteACCUEIlbasaffiche {
+	font-family: Calibri, Helvetica, Arial;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #8BBB1C;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: center;
+}
+#principal #contenu #infobas #basaffiche .StyletexteACCUEIlbasaffiche a {
+	color: #7AB201;
+}
+.tableauACCUEIL {
+	margin-top: 10px;
+	vertical-align: top;
+}
+.StyleTexteVert24px {
+	font-family: Calibri, Arial;
+	font-size: 24px;
+	color: #7CB300;
+}

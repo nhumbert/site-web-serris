@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>EasyRotator Preview</title>
+<script language="javascript" type="text/javascript">
+var expDays = 400;
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+/*function getCookieVal (offset) {  
+	var endstr = document.cookie.indexOf (";", offset);  
+	if (endstr == -1) { endstr = document.cookie.length; }
+	return unescape(document.cookie.substring(offset, endstr));
+}
+function GetCookie (name) {  
+	var arg = name + "=";  
+	var alen = arg.length;  
+	var clen = document.cookie.length;  
+	var i = 0;  
+	while (i < clen) {    
+		var j = i + alen;    
+		if (document.cookie.substring(i, j) == arg) return getCookieVal (j);    
+		i = document.cookie.indexOf(" ", i) + 1;    
+		if (i == 0) break;   
+	}  
+	return null;
+}
+function SetCookie (name, value) {  
+	var argv = SetCookie.arguments;  
+	var argc = SetCookie.arguments.length;  
+	var expires = (argc > 2) ? argv[2] : null;  
+	var path = (argc > 3) ? argv[3] : null;  
+	var domain = (argc > 4) ? argv[4] : null;  
+	var secure = (argc > 5) ? argv[5] : false;  
+	document.cookie = name + "=" + escape (value) + 
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+	((path == null) ? "" : ("; path=" + path)) +  
+	((domain == null) ? "" : ("; domain=" + domain)) +    
+	((secure == true) ? "; secure" : "");
+}*/
+/*function SetCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+function GetCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    { 
+    c_start=c_start + c_name.length+1; 
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    } 
+  }
+return null; //"";
+}*/
+
+var savedValue = null;
+function restorePageBG()
+{
+	return; // ALL OF THIS IS HANDLED REMOTELY IN AS
+	/*
+	//var savedValue = readPref(); //GetCookie('xfs_preview_color');
+	alert('cookie value: ' + savedValue);
+	if (savedValue == null || savedValue == '')
+		savedValue = '#FFFFFF';
+	//document.bgColor = savedValue;
+	document.body.style.backgroundColor = savedValue;
+	document.getElementById('color_ti').value = savedValue;
+	*/
+}
+function savePageBG()
+{
+	var curValue = document.getElementById('color_ti').value;
+	//document.bgColor = curValue;
+	document.body.style.backgroundColor = curValue;
+	//writePref(curValue); //SetCookie('xfs_preview_color', curValue, 400);// exp);
+}
+</script>
+</head>
+<body onload="restorePageBG();">
+<div align="center" style="margin-top: 50px;">
+	<!-- Begin DWUser_EasyRotator -->
+                                  <script type="text/javascript" src="http://c520866.r66.cf2.rackcdn.com/1/js/easy_rotator.min.js"></script>
+                                  <div class="dwuserEasyRotator" style="width: 608px; height: 290px; position:relative; text-align: left;" data-erconfig="{autoplayEnabled:true, autoplayDelay:4000, lpp:'102-105-108-101-58-47-47-47-85-115-101-114-115-47-110-105-99-111-108-97-115-104-117-109-98-101-114-116-47-68-111-99-117-109-101-110-116-115-47-69-97-115-121-82-111-116-97-116-111-114-80-114-101-118-105-101-119-47-112-114-101-118-105-101-119-95-115-119-102-115-47'}" data-ername="accueil">
+                                    <div data-ertype="content" style="display: none;"><ul data-erlabel="Main Category">
+	<li>
+		<a class="mainLink" href="MenuHautNoir/Actualites/agenda.html#presentation" title="Présentation de la saison 2011-2012 de la Ferme des Communes"><img class="main" src="images/agenda/fdc-presentation-saison.gif" /></a>
+		<img class="thumb" src="images/agenda/fdc-presentation-saison.gif" />
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/Actualites/agenda.html#agenda21" title="Présentation de l'Agenda 21 de Serris" ><img class="main" src="images/agenda/2011presentation-agenda-21.gif" /></a>
+		<img class="thumb" src="images/agenda/2011presentation-agenda-21.gif" />
+		<span class="desc">Présentation de l'Agenda 21 de la Commune</span>
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/Actualites/agenda.html#virades" title="Marche de l'espoir le dimanche 25 septembre"><img class="main" src="images/agenda/2011virades.gif" /></a>
+		<img class="thumb" src="images/agenda/2011virades.gif" />
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/Actualites/agenda.html#soireesalsa" title="Soirée Salsa : inscription avant le 10 octobre" ><img class="main" src="images/agenda/2011salsa.gif" /></a>
+		<img class="thumb" src="images/agenda/2011salsa.gif" />
+		<span class="desc">Soirée salsa</span>
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/SportEtCulture/modelage.html" title="cours de modelage sculpture" ><img class="main" src="images/agenda/2011ateliermodelage.gif" /></a>
+		<img class="thumb" src="images/agenda/2011ateliermodelage.gif" />
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/SportEtCulture/PlaneteSports/planetesportadulte.html#adultes" title="Planète Sport Adulte" ><img class="main" src="images/sport/planeteadulte.gif" /></a>
+		<img class="thumb" src="images/sport/planeteadulte.gif" />
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/Actualites/agenda.html#csi" title="Portes ouvertes du CSI" ><img class="main" src="images/agenda/affichecsi.gif" /></a>
+		<img class="thumb" src="images/agenda/affichecsi.gif" />
+	</li>
+	<li>
+		<a class="mainLink" href="MenuHautNoir/Actualites/agenda.html#kermesse" title="Kermesse du Domaine du Saule"><img class="main" src="images/agenda/2011kermessedomainedusaule.gif" /></a>
+		<img class="thumb" src="images/agenda/2011kermessedomainedusaule.gif" />
+	</li>
+</ul>
+</div>
+                                    <div data-ertype="layout" data-ertemplatename="NONE" style="">			<div class="erimgMain" style="position: absolute; left:0;right:0;top:0;bottom:70px;" data-erConfig="{___numTiles:3, scaleMode:'fillArea', imgType:'main', __loopNextButton:false, arrowButtonMode:'rollover'}">
+				<div class="erimgMain_slides erFixCSS3" style="position: absolute; left:0; top:0; bottom:0; right:0;">
+					<div class="erimgMain_slide">
+						<div class="erimgMain_img" style="position: absolute; left:0;right:0;top:0;bottom:0;"></div>
+					</div>
+				</div>
+				<div class="erimgMain_arrowLeft" style="position:absolute; left: 10px; top: 50%; margin-top: -15px;" data-erConfig="{image:'circleSmall', image2:'circleSmall'}"></div>
+				<div class="erimgMain_arrowRight" style="position:absolute; right: 10px; top: 50%; margin-top: -15px;" data-erConfig="{image:'circleSmall', image2:'circleSmall'}"></div>
+			</div>
+			
+			<div class="erdynamicText" data-erfield="title" style="position: absolute; left:0;right:0;bottom:16px;height:45px; text-align: center; color: #666; font: 14px/18px Georgia,'Times New Roman',Times,_serif;">
+			
+			</div>
+			
+			<div class="erdots" style="overflow: hidden; margin: 0; font-size: 10px; font-family: 'Lucida Grande', 'Lucida Sans', Arial, _sans; color: #FFF; position: absolute; left:0; right:0; bottom:5px;" data-erConfig="{showText:false}" align="center">
+				<div class="erdots_wrap" style="wasbackground-color: #CFC; float: none;" align="left"> <!-- modify the float on this element to make left/right/none=center aligned. -->
+					<span class="erdots_btn_selected" style="padding-left: 0; width: 13px; height: 13px; display: inline-block; text-align: center; vertical-align: middle; line-height: 20px; margin: 0; cursor: default; background: url(http://easyrotator.s3.amazonaws.com/1/i/rotator/dots/export/13_7_blue.png) top left no-repeat;">
+						&nbsp;
+					</span>
+					<span class="erdots_btn_normal" style="padding-left: 0; width: 13px; height: 13px; display: inline-block; text-align: center; vertical-align: middle; line-height: 20px; margin: 0; cursor: pointer; background: url(http://easyrotator.s3.amazonaws.com/1/i/rotator/dots/export/13_7_gray.png) top left no-repeat;">
+						&nbsp;
+					</span>
+					<span class="erdots_btn_hover" style="padding-left: 0; width: 13px; height: 13px; display: inline-block; text-align: center; vertical-align: middle; line-height: 20px; margin: 0; cursor: pointer; background: url(http://easyrotator.s3.amazonaws.com/1/i/rotator/dots/export/13_7_blue.png) top left no-repeat;">
+						&nbsp;
+					</span>
+				</div>
+			</div><div class="erabout erFixCSS3" style="color: #FFF; text-align: left; background: #000; background:rgba(0,0,0,0.93); border: 2px solid #FFF; padding: 20px; font: normal 11px/14px Verdana,_sans; width: 300px; border-radius: 10px; display: none;"> This rotator was created with the free <a style="color:#FFF;" href="http://www.dwuser.com/easyrotator/" target="_blank">EasyRotator</a> software from DWUser.com. <br />
+                                          <br />
+                                        Need a powerful <a style="color:#FFF;" href="http://www.dwuser.com/flashslideshow/" target="_blank">Flash slideshow</a> creator with built-in iPhone/iPad/Android support?  EasyRotator is supported by the <a style="color:#FFF;" href="http://www.dwuser.com/flashslideshow/" target="_blank">XML Flash Slideshow v4 Software</a>. <br />
+                                        <br />
+                                        <a style="color:#FFF;" href="#" class="erabout_ok">OK</a> </div>
+                                    </div>
+                                  </div>
+                                <!-- End DWUser_EasyRotator -->
+</div>
+<div style="position: absolute; bottom: 0; left:50%; margin-left: -160px; width: 320px; background-color: 
+#FFFFFF; border: 1px solid #666666; text-align: center; font-size:12px;" align="center">
+	Hex BG Color: <input type="text" style="width: 100px;" id="color_ti"/><input name="Button" type="button" onclick="savePageBG()" value="Apply" />
+</div>
+</body>
+</html>
